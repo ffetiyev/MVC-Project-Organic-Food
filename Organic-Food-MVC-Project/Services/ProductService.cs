@@ -14,7 +14,7 @@ namespace Organic_Food_MVC_Project.Services
         }
         public async Task<IEnumerable<ProductVM>> GetAllAsync()
         {
-            var products = await _context.Products.Include(m=>m.ProductImages).Include(m=>m.Discounts).Select(m=>new ProductVM
+            var products = await _context.Products.Include(m=>m.ProductImages).Include(m=>m.ProductCategory).Include(m=>m.Discounts).Select(m=>new ProductVM
             {
                 Id = m.Id,
                 Description = m.Description,
@@ -22,6 +22,7 @@ namespace Organic_Food_MVC_Project.Services
                 Price = m.Price,
                 ProductCategoryId=m.ProductCategoryId,
                 Discounts = m.Discounts,
+                CategoryName=m.ProductCategory.Name,
                 ProductImages=m.ProductImages.Select(m=>new ProductImageVM
                 {
                     Name = m.Name,

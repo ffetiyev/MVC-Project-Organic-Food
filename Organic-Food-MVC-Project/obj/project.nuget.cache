@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wEDqW7A3d0g=",
+  "dgSpecHash": "fNU2nXDUrtU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project.csproj",
+  "projectFilePath": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fetiy\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\fetiy\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -20,6 +20,10 @@ builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<ISliderService, SliderService>();
 builder.Services.AddScoped<IServiceService, ServiceService>();
 builder.Services.AddScoped<IBlogService, BlogService>();
+builder.Services.AddScoped<IAdvertisementService, AdvertisementService>();
+builder.Services.AddScoped<IAboutService, AboutService>();
+builder.Services.AddScoped<IBrandService, BrandService>();
+
 
 
 var app = builder.Build();

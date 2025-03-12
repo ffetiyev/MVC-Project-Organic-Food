@@ -1,1403 +1,1403 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Organic-Food-MVC-Project.bundle.scp.css",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Organic-Food-MVC-Project.bundle.scp.css",
       "PackagePath": "staticwebassets\\Organic-Food-MVC-Project.k3q29nxutn.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\css\\animate.min.css",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\css\\animate.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\animate.min.css"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\css\\main-color.css",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\css\\main-color.css",
       "PackagePath": "staticwebassets\\assets\\css\\main-color.css"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\css\\main-color01.css",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\css\\main-color01.css",
       "PackagePath": "staticwebassets\\assets\\css\\main-color01.css"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\css\\main-color02.css",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\css\\main-color02.css",
       "PackagePath": "staticwebassets\\assets\\css\\main-color02.css"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\css\\main-color03-green.css",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\css\\main-color03-green.css",
       "PackagePath": "staticwebassets\\assets\\css\\main-color03-green.css"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\css\\main-color04.css",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\css\\main-color04.css",
       "PackagePath": "staticwebassets\\assets\\css\\main-color04.css"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\css\\main-color05.css",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\css\\main-color05.css",
       "PackagePath": "staticwebassets\\assets\\css\\main-color05.css"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\css\\nice-select.css",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\css\\nice-select.css",
       "PackagePath": "staticwebassets\\assets\\css\\nice-select.css"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\css\\slick.min.css",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\css\\slick.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\slick.min.css"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\css\\style.css",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\assets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\fonts\\biolifebbd0.eot",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\fonts\\biolifebbd0.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\biolifebbd0.eot"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\fonts\\biolifebbd0.svg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\fonts\\biolifebbd0.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\biolifebbd0.svg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\fonts\\biolifebbd0.ttf",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\fonts\\biolifebbd0.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\biolifebbd0.ttf"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\fonts\\biolifebbd0.woff",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\fonts\\biolifebbd0.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\biolifebbd0.woff"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.eot",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.eot"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.svg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.svg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.ttf",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.ttf"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.woff"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff2",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.woff2"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfontd41d.eot"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\404-bg.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\404-bg.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\404-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\about-us\\author-01.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\about-us\\author-01.png",
       "PackagePath": "staticwebassets\\assets\\images\\about-us\\author-01.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\about-us\\author-02.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\about-us\\author-02.png",
       "PackagePath": "staticwebassets\\assets\\images\\about-us\\author-02.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\about-us\\author-03.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\about-us\\author-03.png",
       "PackagePath": "staticwebassets\\assets\\images\\about-us\\author-03.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\about-us\\bn01.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\about-us\\bn01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\about-us\\bn01.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\about-us\\bn04.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\about-us\\bn04.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\about-us\\bn04.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\about-us\\double-quotes.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\about-us\\double-quotes.png",
       "PackagePath": "staticwebassets\\assets\\images\\about-us\\double-quotes.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\bg-newsletter.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\bg-newsletter.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\bg-newsletter.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\bg_tab-v1.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\bg_tab-v1.png",
       "PackagePath": "staticwebassets\\assets\\images\\bg_tab-v1.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\bg_tab-v4.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\bg_tab-v4.png",
       "PackagePath": "staticwebassets\\assets\\images\\bg_tab-v4.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\bg_tab-v5.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\bg_tab-v5.png",
       "PackagePath": "staticwebassets\\assets\\images\\bg_tab-v5.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\blogpost\\author-02.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\blogpost\\author-02.png",
       "PackagePath": "staticwebassets\\assets\\images\\blogpost\\author-02.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\blogpost\\author-03.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\blogpost\\author-03.png",
       "PackagePath": "staticwebassets\\assets\\images\\blogpost\\author-03.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\blogpost\\author.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\blogpost\\author.png",
       "PackagePath": "staticwebassets\\assets\\images\\blogpost\\author.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\blogpost\\double-quote.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\blogpost\\double-quote.png",
       "PackagePath": "staticwebassets\\assets\\images\\blogpost\\double-quote.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\blogpost\\post-wgt-01.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\blogpost\\post-wgt-01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blogpost\\post-wgt-01.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\blogpost\\post-wgt-02.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\blogpost\\post-wgt-02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blogpost\\post-wgt-02.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\blogpost\\post-wgt-03.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\blogpost\\post-wgt-03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blogpost\\post-wgt-03.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\blogpost\\post_thumbnail.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\blogpost\\post_thumbnail.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blogpost\\post_thumbnail.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\blogpost\\viewer-avt.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\blogpost\\viewer-avt.png",
       "PackagePath": "staticwebassets\\assets\\images\\blogpost\\viewer-avt.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\card1.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\card1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\card1.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\card2.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\card2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\card2.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\card3.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\card3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\card3.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\card4.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\card4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\card4.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\card5.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\card5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\card5.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\color_bg1.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\color_bg1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\color_bg1.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\detail_01.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\detail_01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\details-product\\detail_01.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\detail_02.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\detail_02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\details-product\\detail_02.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\detail_03.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\detail_03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\details-product\\detail_03.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\detail_04.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\detail_04.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\details-product\\detail_04.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\detail_05.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\detail_05.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\details-product\\detail_05.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\detail_06.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\detail_06.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\details-product\\detail_06.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\detail_07.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\detail_07.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\details-product\\detail_07.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\p01.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\p01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\details-product\\p01.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\p02.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\p02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\details-product\\p02.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\p03.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\p03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\details-product\\p03.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\p04.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\p04.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\details-product\\p04.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\p05.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\p05.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\details-product\\p05.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\p06.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\p06.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\details-product\\p06.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\p07.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\p07.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\details-product\\p07.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\p08.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\p08.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\details-product\\p08.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\p09.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\p09.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\details-product\\p09.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\thumb_01.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\thumb_01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\details-product\\thumb_01.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\thumb_02.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\thumb_02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\details-product\\thumb_02.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\thumb_03.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\thumb_03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\details-product\\thumb_03.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\thumb_04.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\thumb_04.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\details-product\\thumb_04.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\thumb_05.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\thumb_05.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\details-product\\thumb_05.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\thumb_06.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\thumb_06.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\details-product\\thumb_06.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\thumb_07.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\thumb_07.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\details-product\\thumb_07.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\thumb_p01.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\thumb_p01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\details-product\\thumb_p01.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\thumb_p02.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\thumb_p02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\details-product\\thumb_p02.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\thumb_p03.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\thumb_p03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\details-product\\thumb_p03.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\thumb_p04.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\thumb_p04.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\details-product\\thumb_p04.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\thumb_p05.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\thumb_p05.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\details-product\\thumb_p05.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\thumb_p06.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\thumb_p06.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\details-product\\thumb_p06.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\thumb_p07.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\thumb_p07.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\details-product\\thumb_p07.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\thumb_p08.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\thumb_p08.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\details-product\\thumb_p08.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\thumb_p09.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\details-product\\thumb_p09.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\details-product\\thumb_p09.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\favicon.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\favicon.png",
       "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\hero_bg.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\hero_bg.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\hero_bg.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\bg_bold-title.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\bg_bold-title.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-01\\bg_bold-title.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\bg_header-01.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\bg_header-01.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-01\\bg_header-01.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\bn-promotion-6-child-01.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\bn-promotion-6-child-01.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-01\\bn-promotion-6-child-01.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\bn-promotion-6-child-02.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\bn-promotion-6-child-02.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-01\\bn-promotion-6-child-02.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\bn-promotion-6.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\bn-promotion-6.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-01\\bn-promotion-6.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\bn-special-03-sample.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\bn-special-03-sample.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-01\\bn-special-03-sample.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\bn_grid_01.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\bn_grid_01.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-01\\bn_grid_01.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\bn_grid_02.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\bn_grid_02.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-01\\bn_grid_02.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\bn_grid_03.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\bn_grid_03.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-01\\bn_grid_03.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\bn_grid_04.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\bn_grid_04.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-01\\bn_grid_04.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\bn_grid_05.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\bn_grid_05.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-01\\bn_grid_05.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\bn_grid_06.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\bn_grid_06.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-01\\bn_grid_06.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\brd-01.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\brd-01.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-01\\brd-01.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\brd-02.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\brd-02.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-01\\brd-02.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\brd-03.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\brd-03.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-01\\brd-03.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\brd-04.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\brd-04.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-01\\brd-04.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\main-slide-01.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\main-slide-01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-01\\main-slide-01.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\main-slide-02.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\main-slide-02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-01\\main-slide-02.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\main-slide-03.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\main-slide-03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-01\\main-slide-03.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\tab-bg-01.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\tab-bg-01.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-01\\tab-bg-01.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\tab-bg-02.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\tab-bg-02.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-01\\tab-bg-02.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\tab-bg-03.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\tab-bg-03.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-01\\tab-bg-03.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\tab-bg-04.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\tab-bg-04.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-01\\tab-bg-04.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\thumb-bn-special-02.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-01\\thumb-bn-special-02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-01\\thumb-bn-special-02.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\banner-grid-01.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\banner-grid-01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-02\\banner-grid-01.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\banner-grid-02.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\banner-grid-02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-02\\banner-grid-02.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\banner-grid-03.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\banner-grid-03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-02\\banner-grid-03.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\banner-grid-04.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\banner-grid-04.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-02\\banner-grid-04.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\banner-grid-05.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\banner-grid-05.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-02\\banner-grid-05.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\banner-grid-06.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\banner-grid-06.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-02\\banner-grid-06.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\banner-promotion-5.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\banner-promotion-5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-02\\banner-promotion-5.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\bgrd-newsletter.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\bgrd-newsletter.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-02\\bgrd-newsletter.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\bn-promotion5-child1.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\bn-promotion5-child1.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-02\\bn-promotion5-child1.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\bn-promotion5-child2.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\bn-promotion5-child2.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-02\\bn-promotion5-child2.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\brd-01.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\brd-01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-02\\brd-01.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\brd-02.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\brd-02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-02\\brd-02.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\brd-03.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\brd-03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-02\\brd-03.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\brd-04.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\brd-04.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-02\\brd-04.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\brd-05.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\brd-05.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-02\\brd-05.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\instag-inline-01.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\instag-inline-01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-02\\instag-inline-01.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\instag-inline-02.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\instag-inline-02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-02\\instag-inline-02.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\instag-inline-03.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\instag-inline-03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-02\\instag-inline-03.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\instag-inline-04.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\instag-inline-04.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-02\\instag-inline-04.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\instag-inline-05.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\instag-inline-05.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-02\\instag-inline-05.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\instag-inline-06.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\instag-inline-06.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-02\\instag-inline-06.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\instag-inline-07.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\instag-inline-07.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-02\\instag-inline-07.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\instag-inline-08.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\instag-inline-08.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-02\\instag-inline-08.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\instag-inline-09.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\instag-inline-09.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-02\\instag-inline-09.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\instag-inline-10.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\instag-inline-10.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-02\\instag-inline-10.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\main-slide-01.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\main-slide-01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-02\\main-slide-01.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\main-slide-02.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\main-slide-02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-02\\main-slide-02.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\main-slide-03.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-02\\main-slide-03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-02\\main-slide-03.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\bg_banner_pomotion_org.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\bg_banner_pomotion_org.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-03\\bg_banner_pomotion_org.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\biolife-banner__style-01.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\biolife-banner__style-01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-03\\biolife-banner__style-01.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\bn_special_org.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\bn_special_org.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-03\\bn_special_org.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\brd-01.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\brd-01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-03\\brd-01.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\brd-02.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\brd-02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-03\\brd-02.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\brd-03.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\brd-03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-03\\brd-03.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\brd-04.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\brd-04.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-03\\brd-04.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\green-slide-01.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\green-slide-01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-03\\green-slide-01.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\green-slide-02.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\green-slide-02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-03\\green-slide-02.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\img-moving-pst-1-geen.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\img-moving-pst-1-geen.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-03\\img-moving-pst-1-geen.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\img-moving-pst-1.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\img-moving-pst-1.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-03\\img-moving-pst-1.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\img-moving-pst-2.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\img-moving-pst-2.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-03\\img-moving-pst-2.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\img-moving-pst-3-cut.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\img-moving-pst-3-cut.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-03\\img-moving-pst-3-cut.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\img-moving-pst-4.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\img-moving-pst-4.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-03\\img-moving-pst-4.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\post-author.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\post-author.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-03\\post-author.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\product_deal-02_330x330.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\product_deal-02_330x330.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-03\\product_deal-02_330x330.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\product_deal-03_330x330.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\product_deal-03_330x330.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-03\\product_deal-03_330x330.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\product_deal_330x330.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\product_deal_330x330.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-03\\product_deal_330x330.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\promotion_bg_green-version.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\promotion_bg_green-version.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-03\\promotion_bg_green-version.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\slide-01-child-01.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\slide-01-child-01.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-03\\slide-01-child-01.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\slide-01.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\slide-01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-03\\slide-01.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\slomotion_02_bg.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\slomotion_02_bg.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-03\\slomotion_02_bg.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\banner-promotion01.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\banner-promotion01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\banner-promotion01.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\bn_promotion-child01-2.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\bn_promotion-child01-2.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\bn_promotion-child01-2.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\bn_promotion-child01.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\bn_promotion-child01.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\bn_promotion-child01.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\bn_promotion-child02-2.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\bn_promotion-child02-2.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\bn_promotion-child02-2.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\bn_promotion-child02.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\bn_promotion-child02.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\bn_promotion-child02.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\bn_style02-child.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\bn_style02-child.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\bn_style02-child.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\bn_style03-child.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\bn_style03-child.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\bn_style03-child.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\bn_style04-child.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\bn_style04-child.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\bn_style04-child.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\bn_style05.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\bn_style05.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\bn_style05.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\bn_style06.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\bn_style06.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\bn_style06.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\bn_style07.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\bn_style07.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\bn_style07.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\bn_style08.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\bn_style08.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\bn_style08.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\bn_style09.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\bn_style09.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\bn_style09.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\bn_style10.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\bn_style10.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\bn_style10.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\cat-thumb01.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\cat-thumb01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\cat-thumb01.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\cat-thumb02.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\cat-thumb02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\cat-thumb02.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\cat-thumb03.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\cat-thumb03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\cat-thumb03.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\cat-thumb04.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\cat-thumb04.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\cat-thumb04.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\light-main_slide_01.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\light-main_slide_01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\light-main_slide_01.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\light-main_slide_02.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\light-main_slide_02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\light-main_slide_02.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\light-main_slide_03.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\light-main_slide_03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\light-main_slide_03.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\main_slide.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\main_slide.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\main_slide.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\pr-100-01.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\pr-100-01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\pr-100-01.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\pr-100-02.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\pr-100-02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\pr-100-02.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\pr-100-03.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\pr-100-03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\pr-100-03.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\pr-100-04.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\pr-100-04.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\pr-100-04.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\pr-100-05.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\pr-100-05.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\pr-100-05.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\pr-100-06.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\pr-100-06.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\pr-100-06.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\pr-100-07.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\pr-100-07.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\pr-100-07.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\pr-100-08.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\pr-100-08.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\pr-100-08.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\pr-100-09.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\pr-100-09.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\pr-100-09.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\pr-100-10.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\pr-100-10.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\pr-100-10.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\pr-100-11.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\pr-100-11.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\pr-100-11.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\pr-100-12.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-04\\pr-100-12.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-04\\pr-100-12.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-05\\bg-right-follow.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-05\\bg-right-follow.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-05\\bg-right-follow.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-05\\bn_product-detail.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-05\\bn_product-detail.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-05\\bn_product-detail.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-05\\bn_style-15.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-05\\bn_style-15.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-05\\bn_style-15.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-05\\bn_style05-2.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-05\\bn_style05-2.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-05\\bn_style05-2.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-05\\bn_style06-2.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-05\\bn_style06-2.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-05\\bn_style06-2.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-05\\bn_style13-child.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-05\\bn_style13-child.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-05\\bn_style13-child.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-05\\bn_style14-child.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-05\\bn_style14-child.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-05\\bn_style14-child.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-05\\main-slide-child-01.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-05\\main-slide-child-01.png",
       "PackagePath": "staticwebassets\\assets\\images\\home-05\\main-slide-child-01.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-05\\main-slide.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-05\\main-slide.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-05\\main-slide.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-05\\media-banner-11.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-05\\media-banner-11.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-05\\media-banner-11.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-05\\media-banner-12.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-05\\media-banner-12.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-05\\media-banner-12.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-05\\testiminal-01.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-05\\testiminal-01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\home-05\\testiminal-01.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\insta-01.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\insta-01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\insta-01.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\insta-02.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\insta-02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\insta-02.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\insta-03.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\insta-03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\insta-03.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\insta-04.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\insta-04.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\insta-04.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\insta-05.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\insta-05.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\insta-05.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\insta-06.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\insta-06.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\insta-06.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\languages\\fr.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\languages\\fr.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\languages\\fr.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\languages\\ger.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\languages\\ger.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\languages\\ger.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\languages\\jap.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\languages\\jap.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\languages\\jap.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\languages\\us.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\languages\\us.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\languages\\us.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\location-icon.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\location-icon.png",
       "PackagePath": "staticwebassets\\assets\\images\\location-icon.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\logo-biolife-1.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\logo-biolife-1.png",
       "PackagePath": "staticwebassets\\assets\\images\\logo-biolife-1.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\logo-biolife-5.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\logo-biolife-5.png",
       "PackagePath": "staticwebassets\\assets\\images\\logo-biolife-5.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\brand-eco-teas.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\brand-eco-teas.png",
       "PackagePath": "staticwebassets\\assets\\images\\megamenu\\brand-eco-teas.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\brand-explore.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\brand-explore.png",
       "PackagePath": "staticwebassets\\assets\\images\\megamenu\\brand-explore.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\brand-organic-2.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\brand-organic-2.png",
       "PackagePath": "staticwebassets\\assets\\images\\megamenu\\brand-organic-2.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\brand-organic.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\brand-organic.png",
       "PackagePath": "staticwebassets\\assets\\images\\megamenu\\brand-organic.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\megamenu-bg-02.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\megamenu-bg-02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\megamenu\\megamenu-bg-02.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\thumb-01.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\thumb-01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\megamenu\\thumb-01.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\thumb-02.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\thumb-02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\megamenu\\thumb-02.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\thumb-03.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\thumb-03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\megamenu\\thumb-03.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\thumb-04.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\thumb-04.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\megamenu\\thumb-04.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\thumb-05.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\thumb-05.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\megamenu\\thumb-05.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\thumb-06.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\thumb-06.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\megamenu\\thumb-06.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\thumb-07.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\thumb-07.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\megamenu\\thumb-07.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\v-brand-eco-teas.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\v-brand-eco-teas.png",
       "PackagePath": "staticwebassets\\assets\\images\\megamenu\\v-brand-eco-teas.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\v-brand-explore.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\v-brand-explore.png",
       "PackagePath": "staticwebassets\\assets\\images\\megamenu\\v-brand-explore.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\v-brand-organic-2.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\v-brand-organic-2.png",
       "PackagePath": "staticwebassets\\assets\\images\\megamenu\\v-brand-organic-2.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\v-brand-organic.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\v-brand-organic.png",
       "PackagePath": "staticwebassets\\assets\\images\\megamenu\\v-brand-organic.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\vegetable-mega-bg.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\megamenu\\vegetable-mega-bg.png",
       "PackagePath": "staticwebassets\\assets\\images\\megamenu\\vegetable-mega-bg.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\minicart\\pr-01.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\minicart\\pr-01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\minicart\\pr-01.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\minicart\\pr-02.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\minicart\\pr-02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\minicart\\pr-02.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\minicart\\pr-03.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\minicart\\pr-03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\minicart\\pr-03.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\minicart\\pr-04.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\minicart\\pr-04.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\minicart\\pr-04.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\minicart\\pr-05.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\minicart\\pr-05.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\minicart\\pr-05.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\organic-2-footer.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\organic-2-footer.png",
       "PackagePath": "staticwebassets\\assets\\images\\organic-2-footer.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\organic-2.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\organic-2.png",
       "PackagePath": "staticwebassets\\assets\\images\\organic-2.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\organic-3-green.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\organic-3-green.png",
       "PackagePath": "staticwebassets\\assets\\images\\organic-3-green.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\organic-3.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\organic-3.png",
       "PackagePath": "staticwebassets\\assets\\images\\organic-3.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\organic-4.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\organic-4.png",
       "PackagePath": "staticwebassets\\assets\\images\\organic-4.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\our-blog\\post-thumb-01.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\our-blog\\post-thumb-01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\our-blog\\post-thumb-01.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\our-blog\\post-thumb-02.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\our-blog\\post-thumb-02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\our-blog\\post-thumb-02.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\our-blog\\post-thumb-03.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\our-blog\\post-thumb-03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\our-blog\\post-thumb-03.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\our-blog\\post-thumb-04.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\our-blog\\post-thumb-04.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\our-blog\\post-thumb-04.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\our-blog\\post-thumb-05.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\our-blog\\post-thumb-05.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\our-blog\\post-thumb-05.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\our-blog\\post-thumb-06.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\our-blog\\post-thumb-06.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\our-blog\\post-thumb-06.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\our-blog\\post-thumb-wide-01.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\our-blog\\post-thumb-wide-01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\our-blog\\post-thumb-wide-01.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\our-blog\\post-thumb-wide-02.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\our-blog\\post-thumb-wide-02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\our-blog\\post-thumb-wide-02.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-01.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\p-01.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-02.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\p-02.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-03.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\p-03.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-05.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-05.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\p-05.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-06.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-06.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\p-06.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-07.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-07.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\p-07.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-08.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-08.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\p-08.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-09.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-09.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\p-09.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-10.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-10.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\p-10.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-11.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-11.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\p-11.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-12.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-12.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\p-12.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-13.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-13.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\p-13.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-14.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-14.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\p-14.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-15.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-15.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\p-15.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-16.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-16.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\p-16.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-17.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-17.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\p-17.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-18.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-18.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\p-18.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-19.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-19.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\p-19.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-20.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-20.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\p-20.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-21.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-21.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\p-21.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-22.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-22.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\p-22.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-23.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-23.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\p-23.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-24.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-24.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\p-24.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-25.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-25.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\p-25.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-26.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-26.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\p-26.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-27.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-27.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\p-27.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-28.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-28.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\p-28.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-29.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-29.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\p-29.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-30.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-30.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\p-30.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\shippingcart\\pr-01.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\shippingcart\\pr-01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\shippingcart\\pr-01.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\shippingcart\\pr-02.jpg",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\shippingcart\\pr-02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\shippingcart\\pr-02.jpg"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\top_banner_shopping_cart.png",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\top_banner_shopping_cart.png",
       "PackagePath": "staticwebassets\\assets\\images\\top_banner_shopping_cart.png"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\js\\biolife.framework.js",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\js\\biolife.framework.js",
       "PackagePath": "staticwebassets\\assets\\js\\biolife.framework.js"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\js\\custom.js",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\js\\custom.js",
       "PackagePath": "staticwebassets\\assets\\js\\custom.js"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\js\\functions.js",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\js\\functions.js",
       "PackagePath": "staticwebassets\\assets\\js\\functions.js"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\js\\jquery-3.4.1.min.js",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\js\\jquery-3.4.1.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery-3.4.1.min.js"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\js\\jquery.countdown.min.js",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\js\\jquery.countdown.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.countdown.min.js"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\js\\jquery.nice-select.min.js",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\js\\jquery.nice-select.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.nice-select.min.js"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\js\\jquery.nicescroll.min.js",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\js\\jquery.nicescroll.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.nicescroll.min.js"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\assets\\js\\slick.min.js",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\js\\slick.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\slick.min.js"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project\\Organic-Food-MVC-Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

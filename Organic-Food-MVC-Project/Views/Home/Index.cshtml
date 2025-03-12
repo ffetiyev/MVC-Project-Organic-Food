@@ -175,11 +175,11 @@
                     </div>
                     <div class="text-content">
                         <div class="container text-wrap">
-                            <i class="first-line">Healthy Fruit juice</i>
-                            <span class="second-line">Vegetable Always fresh</span>
-                            <p class="third-line">Food Heaven Made Easy sounds like the name of an amazingly delicious food delivery service, but don't be fooled...</p>
+                            <i class="first-line">@Model.Advertisement.Product</i>
+                            <span class="second-line">@Model.Advertisement.Title</span>
+                            <p class="third-line">@Model.Advertisement.Description</p>
                             <div class="product-detail">
-                                <p class="txt-price"><span>Only:</span>$8.00</p>
+                                <p class="txt-price"><span>Only:</span>$@Model.Advertisement.Price</p>
                                 <a href="#" class="btn add-to-cart-btn">add to cart</a>
                             </div>
                         </div>
@@ -193,11 +193,11 @@
             <div class="biolife-banner promotion2 biolife-banner__promotion2">
                 <div class="banner-contain">
                     <div class="container">
-                        <div class="media"></div>
+                        <div class="media" style="background-image: url('/assets/images/home-03/@Model.About.Image')"></div>
                         <div class="text-content">
-                            <b class="first-line">Food Heaven Made</b>
+                            <b class="first-line">@Model.About.Title</b>
                             <span class="second-line">Easy <i>Healthy, Happy Life</i></span>
-                            <p class="third-line">Food Heaven Made Easy sounds like the name of an amazingly delicious food delivery service, but don't be fooled. The blog is actually a compilation of recipes, cooking videos, and nutrition tips.</p>
+                            <p class="third-line">@Model.About.Description</p>
                             <p class="buttons">
                                 <a href="#" class="btn btn-bold">Read More</a>
                                 <a href="#" class="btn btn-thin">View Menu Now</a>
@@ -218,93 +218,38 @@
                                 <h3 class="title">Deals of the day</h3>
                             </div>
                             <ul class="products biolife-carousel nav-top-right nav-none-on-mobile" data-slick='{"arrows":true, "dots":false, "infinite":false, "speed":400, "slidesMargin":30, "slidesToShow":1}'>
-                                <li class="product-item">
-                                    <div class="contain-product deal-layout contain-product__deal-layout">
-                                        <div class="product-thumb">
-                                            <a href="#" class="link-to-product">
-                                                <img src="~/assets/images/home-03/product_deal_330x330.jpg" alt="dd" width="330" height="330" class="product-thumnail">
-                                            </a>
-                                            <div class="labels">
-                                                <span class="sale-label">-50%</span>
+                                  @foreach (var item in Model.Products.OrderByDescending(m=>m.Discounts.Max(m=>m.Percent)).ToList())
+                                {
+                                    <li class="product-item">
+                                        <div class="contain-product deal-layout contain-product__deal-layout">
+                                            <div class="product-thumb">
+                                                <a href="#" class="link-to-product">
+                                                    <img src="~/assets/images/products/@item.ProductImages.FirstOrDefault(m=>m.IsMain==true).Name" alt="dd" width="330" height="330" class="product-thumnail">
+                                                </a>
+                                                <div class="labels">
+                                                    <span class="sale-label">@item.Discounts.First().Percent%</span>
+                                                </div>
                                             </div>
-                                        </div>
-                                        <div class="info">
-                                            <div class="biolife-countdown" data-datetime="2020/02/18 00:00:00"></div>
-                                            <b class="categories">Fresh Fruit</b>
-                                            <h4 class="product-title"><a href="#" class="pr-name">National Fresh Fruit</a></h4>
-                                            <div class="price ">
-                                                <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
-                                                <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
-                                            </div>
-                                            <div class="slide-down-box">
-                                                <p class="message">All products are carefully selected to ensure food safety.</p>
-                                                <div class="buttons">
-                                                    <a href="#" class="btn wishlist-btn"><i class="fa fa-heart" aria-hidden="true"></i></a>
-                                                    <a href="#" class="btn add-to-cart-btn">add to cart</a>
-                                                    <a href="#" class="btn compare-btn"><i class="fa fa-random" aria-hidden="true"></i></a>
+                                            <div class="info">
+                                                <div class="biolife-countdown" data-datetime="2020/01/18 00:00:00"></div>
+                                                <b class="categories">Fresh Fruit</b>
+                                                <h4 class="product-title"><a href="#" class="pr-name">@item.Name</a></h4>
+                                                <div class="price ">
+                                                    <ins><span class="price-amount"><span class="currencySymbol">£</span>@(item.Price - item.Price * item.Discounts.First().Percent / 100)</span></ins>
+                                                    <del><span class="price-amount"><span class="currencySymbol">£</span>@item.Price</span></del>
+                                                </div>
+                                                <div class="slide-down-box">
+                                                    <p class="message">@item.Description</p>
+                                                    <div class="buttons">
+                                                        <a href="#" class="btn wishlist-btn"><i class="fa fa-heart" aria-hidden="true"></i></a>
+                                                        <a href="#" class="btn add-to-cart-btn">add to cart</a>
+                                                        <a href="#" class="btn compare-btn"><i class="fa fa-random" aria-hidden="true"></i></a>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
-                                </li>
-                                <li class="product-item">
-                                    <div class="contain-product deal-layout contain-product__deal-layout">
-                                        <div class="product-thumb">
-                                            <a href="#" class="link-to-product">
-                                                <img src="~/assets/images/home-03/product_deal-02_330x330.jpg" alt="dd" width="330" height="330" class="product-thumnail">
-                                            </a>
-                                            <div class="labels">
-                                                <span class="sale-label">-50%</span>
-                                            </div>
-                                        </div>
-                                        <div class="info">
-                                            <div class="biolife-countdown" data-datetime="2020/04/18 00:00:00"></div>
-                                            <b class="categories">Fresh Fruit</b>
-                                            <h4 class="product-title"><a href="#" class="pr-name">National Fresh Fruit</a></h4>
-                                            <div class="price ">
-                                                <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
-                                                <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
-                                            </div>
-                                            <div class="slide-down-box">
-                                                <p class="message">All products are carefully selected to ensure food safety.</p>
-                                                <div class="buttons">
-                                                    <a href="#" class="btn wishlist-btn"><i class="fa fa-heart" aria-hidden="true"></i></a>
-                                                    <a href="#" class="btn add-to-cart-btn">add to cart</a>
-                                                    <a href="#" class="btn compare-btn"><i class="fa fa-random" aria-hidden="true"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="product-item">
-                                    <div class="contain-product deal-layout contain-product__deal-layout">
-                                        <div class="product-thumb">
-                                            <a href="#" class="link-to-product">
-                                                <img src="~/assets/images/home-03/product_deal-03_330x330.jpg" alt="dd" width="330" height="330" class="product-thumnail">
-                                            </a>
-                                            <div class="labels">
-                                                <span class="sale-label">-50%</span>
-                                            </div>
-                                        </div>
-                                        <div class="info">
-                                            <div class="biolife-countdown" data-datetime="2020/01/18 00:00:00"></div>
-                                            <b class="categories">Fresh Fruit</b>
-                                            <h4 class="product-title"><a href="#" class="pr-name">National Fresh Fruit</a></h4>
-                                            <div class="price ">
-                                                <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
-                                                <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
-                                            </div>
-                                            <div class="slide-down-box">
-                                                <p class="message">All products are carefully selected to ensure food safety.</p>
-                                                <div class="buttons">
-                                                    <a href="#" class="btn wishlist-btn"><i class="fa fa-heart" aria-hidden="true"></i></a>
-                                                    <a href="#" class="btn add-to-cart-btn">add to cart</a>
-                                                    <a href="#" class="btn compare-btn"><i class="fa fa-random" aria-hidden="true"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
+                                    </li>
+                                }
                             </ul>
                         </div>
                     </div>
@@ -314,174 +259,30 @@
                                 <h3 class="title">Top Rated Products</h3>
                             </div>
                             <ul class="products biolife-carousel eq-height-contain nav-center-03 nav-none-on-mobile row-space-29px" data-slick='{"rows":2,"arrows":true,"dots":false,"infinite":false,"speed":400,"slidesMargin":30,"slidesToShow":2,"responsive":[{"breakpoint":1200,"settings":{ "rows":2, "slidesToShow": 2}},{"breakpoint":992, "settings":{ "rows":2, "slidesToShow": 1}},{"breakpoint":768, "settings":{ "rows":2, "slidesToShow": 2}},{"breakpoint":500, "settings":{ "rows":2, "slidesToShow": 1}}]}'>
-                                <li class="product-item">
-                                    <div class="contain-product right-info-layout contain-product__right-info-layout">
-                                        <div class="product-thumb">
-                                            <a href="#" class="link-to-product">
-                                                <img src="~/assets/images/products/p-19.jpg" alt="dd" width="270" height="270" class="product-thumnail">
-                                            </a>
-                                        </div>
-                                        <div class="info">
-                                            <b class="categories">Vegetables</b>
-                                            <h4 class="product-title"><a href="#" class="pr-name">Pumpkins Fairytale</a></h4>
-                                            <div class="price ">
-                                                <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
-                                                <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
+                                    @foreach (var item in Model.Products.TakeLast(8))
+                                {
+                                    <li class="product-item">
+                                        <div class="contain-product right-info-layout contain-product__right-info-layout">
+                                            <div class="product-thumb">
+                                                <a href="#" class="link-to-product">
+                                                    <img src="~/assets/images/products/@item.ProductImages.FirstOrDefault(m=>m.IsMain==true).Name" alt="dd" width="270" height="270" class="product-thumnail">
+                                                </a>
                                             </div>
-                                            <div class="rating">
-                                                <p class="star-rating"><span class="width-80percent"></span></p>
-                                                <span class="review-count">(05 Reviews)</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="product-item">
-                                    <div class="contain-product right-info-layout contain-product__right-info-layout">
-                                        <div class="product-thumb">
-                                            <a href="#" class="link-to-product">
-                                                <img src="~/assets/images/products/p-03.jpg" alt="dd" width="270" height="270" class="product-thumnail">
-                                            </a>
-                                        </div>
-                                        <div class="info">
-                                            <b class="categories">Vegetables</b>
-                                            <h4 class="product-title"><a href="#" class="pr-name">Passover Cauliflower</a></h4>
-                                            <div class="price ">
-                                                <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
-                                                <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
-                                            </div>
-                                            <div class="rating">
-                                                <p class="star-rating"><span class="width-80percent"></span></p>
-                                                <span class="review-count">(05 Reviews)</span>
+                                            <div class="info">
+                                                <b class="categories">@item.CategoryName</b>
+                                                <h4 class="product-title"><a href="#" class="pr-name">@item.Description</a></h4>
+                                                <div class="price ">
+                                                    <ins><span class="price-amount"><span class="currencySymbol">£</span>@(item.Price - item.Price * item.Discounts.First().Percent / 100)</span></ins>
+                                                    <del><span class="price-amount"><span class="currencySymbol">£</span>@item.Price</span></del>
+                                                </div>
+                                                <div class="rating">
+                                                    <p class="star-rating"><span class="width-80percent"></span></p>
+                                                    <span class="review-count">(05 Reviews)</span>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                </li>
-                                <li class="product-item">
-                                    <div class="contain-product right-info-layout contain-product__right-info-layout">
-                                        <div class="product-thumb">
-                                            <a href="#" class="link-to-product">
-                                                <img src="~/assets/images/products/p-02.jpg" alt="dd" width="270" height="270" class="product-thumnail">
-                                            </a>
-                                        </div>
-                                        <div class="info">
-                                            <b class="categories">Vegetables</b>
-                                            <h4 class="product-title"><a href="#" class="pr-name">Hot Chili Peppers</a></h4>
-                                            <div class="price ">
-                                                <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
-                                                <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
-                                            </div>
-                                            <div class="rating">
-                                                <p class="star-rating"><span class="width-80percent"></span></p>
-                                                <span class="review-count">(05 Reviews)</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="product-item">
-                                    <div class="contain-product right-info-layout contain-product__right-info-layout">
-                                        <div class="product-thumb">
-                                            <a href="#" class="link-to-product">
-                                                <img src="~/assets/images/products/p-22.jpg" alt="dd" width="270" height="270" class="product-thumnail">
-                                            </a>
-                                        </div>
-                                        <div class="info">
-                                            <b class="categories">Vegetables</b>
-                                            <h4 class="product-title"><a href="#" class="pr-name">Cherry Tomato Seeds</a></h4>
-                                            <div class="price ">
-                                                <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
-                                                <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
-                                            </div>
-                                            <div class="rating">
-                                                <p class="star-rating"><span class="width-80percent"></span></p>
-                                                <span class="review-count">(05 Reviews)</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="product-item">
-                                    <div class="contain-product right-info-layout contain-product__right-info-layout">
-                                        <div class="product-thumb">
-                                            <a href="#" class="link-to-product">
-                                                <img src="~/assets/images/products/p-20.jpg" alt="dd" width="270" height="270" class="product-thumnail">
-                                            </a>
-                                        </div>
-                                        <div class="info">
-                                            <b class="categories">Vegetables</b>
-                                            <h4 class="product-title"><a href="#" class="pr-name">National Fresh Fruit</a></h4>
-                                            <div class="price ">
-                                                <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
-                                                <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
-                                            </div>
-                                            <div class="rating">
-                                                <p class="star-rating"><span class="width-80percent"></span></p>
-                                                <span class="review-count">(05 Reviews)</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="product-item">
-                                    <div class="contain-product right-info-layout contain-product__right-info-layout">
-                                        <div class="product-thumb">
-                                            <a href="#" class="link-to-product">
-                                                <img src="~/assets/images/products/p-05.jpg" alt="dd" width="270" height="270" class="product-thumnail">
-                                            </a>
-                                        </div>
-                                        <div class="info">
-                                            <b class="categories">Vegetables</b>
-                                            <h4 class="product-title"><a href="#" class="pr-name">Organic Hass Avocado</a></h4>
-                                            <div class="price ">
-                                                <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
-                                                <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
-                                            </div>
-                                            <div class="rating">
-                                                <p class="star-rating"><span class="width-80percent"></span></p>
-                                                <span class="review-count">(05 Reviews)</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="product-item">
-                                    <div class="contain-product right-info-layout contain-product__right-info-layout">
-                                        <div class="product-thumb">
-                                            <a href="#" class="link-to-product">
-                                                <img src="~/assets/images/products/p-06.jpg" alt="dd" width="270" height="270" class="product-thumnail">
-                                            </a>
-                                        </div>
-                                        <div class="info">
-                                            <b class="categories">Vegetables</b>
-                                            <h4 class="product-title"><a href="#" class="pr-name">Packham's Pears</a></h4>
-                                            <div class="price ">
-                                                <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
-                                                <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
-                                            </div>
-                                            <div class="rating">
-                                                <p class="star-rating"><span class="width-80percent"></span></p>
-                                                <span class="review-count">(05 Reviews)</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="product-item">
-                                    <div class="contain-product right-info-layout contain-product__right-info-layout">
-                                        <div class="product-thumb">
-                                            <a href="#" class="link-to-product">
-                                                <img src="~/assets/images/products/p-20.jpg" alt="dd" width="270" height="270" class="product-thumnail">
-                                            </a>
-                                        </div>
-                                        <div class="info">
-                                            <b class="categories">Vegetables</b>
-                                            <h4 class="product-title"><a href="#" class="pr-name">National Fresh Fruit</a></h4>
-                                            <div class="price ">
-                                                <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
-                                                <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
-                                            </div>
-                                            <div class="rating">
-                                                <p class="star-rating"><span class="width-80percent"></span></p>
-                                                <span class="review-count">(05 Reviews)</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
+                                    </li>
+                                }
                             </ul>
                             <div class="biolife-banner style-01 biolife-banner__style-01 xs-margin-top-80px-im sm-margin-top-30px-im">
                                 <div class="banner-contain">
@@ -504,62 +305,16 @@
         <div class="brand-slide sm-margin-top-100px background-fafafa xs-margin-top-80px xs-margin-bottom-80px">
             <div class="container">
                 <ul class="biolife-carousel nav-center-bold nav-none-on-mobile" data-slick='{"rows":1,"arrows":true,"dots":false,"infinite":false,"speed":400,"slidesMargin":30,"slidesToShow":4, "responsive":[{"breakpoint":1200, "settings":{ "slidesToShow": 4}},{"breakpoint":992, "settings":{ "slidesToShow": 3}},{"breakpoint":768, "settings":{ "slidesToShow": 2, "slidesMargin":10}},{"breakpoint":450, "settings":{ "slidesToShow": 1, "slidesMargin":10}}]}'>
-                    <li>
+                   @foreach (var item in Model.Brands)
+                     {
+                        <li>
                         <div class="biolife-brd-container">
                             <a href="#" class="link">
-                                <figure><img src="~/assets/images/home-03/brd-01.jpg" width="214" height="163" alt=""></figure>
+                                <figure><img src="~/assets/images/home-03/@item.Image" width="224" height="163" alt=""></figure>
                             </a>
                         </div>
-                    </li>
-                    <li>
-                        <div class="biolife-brd-container">
-                            <a href="#" class="link">
-                                <figure><img src="~/assets/images/home-03/brd-02.jpg" width="214" height="163" alt=""></figure>
-                            </a>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="biolife-brd-container">
-                            <a href="#" class="link">
-                                <figure><img src="~/assets/images/home-03/brd-03.jpg" width="153" height="163" alt=""></figure>
-                            </a>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="biolife-brd-container">
-                            <a href="#" class="link">
-                                <figure><img src="~/assets/images/home-03/brd-04.jpg" width="224" height="163" alt=""></figure>
-                            </a>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="biolife-brd-container">
-                            <a href="#" class="link">
-                                <figure><img src="~/assets/images/home-03/brd-01.jpg" width="214" height="163" alt=""></figure>
-                            </a>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="biolife-brd-container">
-                            <a href="#" class="link">
-                                <figure><img src="~/assets/images/home-03/brd-02.jpg" width="214" height="163" alt=""></figure>
-                            </a>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="biolife-brd-container">
-                            <a href="#" class="link">
-                                <figure><img src="~/assets/images/home-03/brd-03.jpg" width="153" height="163" alt=""></figure>
-                            </a>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="biolife-brd-container">
-                            <a href="#" class="link">
-                                <figure><img src="~/assets/images/home-03/brd-04.jpg" width="224" height="163" alt=""></figure>
-                            </a>
-                        </div>
-                    </li>
+                        </li>
+                     }
                 </ul>
             </div>
         </div>
@@ -572,216 +327,42 @@
                     <h3 class="main-title">From the Blog</h3>
                 </div>
                 <ul class="biolife-carousel nav-center nav-none-on-mobile xs-margin-top-36px" data-slick='{"rows":1,"arrows":true,"dots":false,"infinite":false,"speed":400,"slidesMargin":30,"slidesToShow":3, "responsive":[{"breakpoint":1200, "settings":{ "slidesToShow": 3}},{"breakpoint":992, "settings":{ "slidesToShow": 2}},{"breakpoint":768, "settings":{ "slidesToShow": 2}},{"breakpoint":600, "settings":{ "slidesToShow": 1}}]}'>
-                    <li>
-                        <div class="post-item effect-01 style-bottom-info layout-02 ">
-                            <div class="thumbnail">
-                                <a href="#" class="link-to-post"><img src="~/assets/images/our-blog/post-thumb-01.jpg" width="370" height="270" alt=""></a>
-                                <div class="post-date">
-                                    <span class="date">26</span>
-                                    <span class="month">dec</span>
-                                </div>
-                            </div>
-                            <div class="post-content">
-                                <h4 class="post-name"><a href="#" class="linktopost">Ashwagandha: The #1 Herb in the World for Anxiety?</a></h4>
-                                <div class="post-meta">
-                                    <a href="#" class="post-meta__item author"><img src="~/assets/images/home-03/post-author.png" width="28" height="28" alt=""><span>Admin</span></a>
-                                    <a href="#" class="post-meta__item btn liked-count">2<span class="biolife-icon icon-comment"></span></a>
-                                    <a href="#" class="post-meta__item btn comment-count">6<span class="biolife-icon icon-like"></span></a>
-                                    <div class="post-meta__item post-meta__item-social-box">
-                                        <span class="tbn"><i class="fa fa-share-alt" aria-hidden="true"></i></span>
-                                        <div class="inner-content">
-                                            <ul class="socials">
-                                                <li><a href="#" title="twitter" class="socail-btn"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="facebook" class="socail-btn"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="pinterest" class="socail-btn"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="youtube" class="socail-btn"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="instagram" class="socail-btn"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                                            </ul>
-                                        </div>
+                      @foreach (var item in Model.Blogs.TakeLast(5)){
+                        <li>
+                            <div class="post-item effect-01 style-bottom-info layout-02">
+                                <div class="thumbnail">
+                                    <a href="#" class="link-to-post"><img src="~/assets/images/our-blog/@item.Image" width="370" height="270" alt=""></a>
+                                    <div class="post-date">
+                                        <span class="date">@item.Date.ToString("dd, MMMM")</span>
                                     </div>
                                 </div>
-                                <p class="excerpt">Did you know that red-staining foods are excellent lymph-movers? In fact, many plants that were historically used as dyes...</p>
-                                <div class="group-buttons">
-                                    <a href="#" class="btn readmore">continue reading</a>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="post-item effect-01 style-bottom-info layout-02">
-                            <div class="thumbnail">
-                                <a href="#" class="link-to-post"><img src="~/assets/images/our-blog/post-thumb-02.jpg" width="370" height="270" alt=""></a>
-                                <div class="post-date">
-                                    <span class="date">26</span>
-                                    <span class="month">dec</span>
-                                </div>
-                            </div>
-                            <div class="post-content">
-                                <h4 class="post-name"><a href="#" class="linktopost">Ashwagandha: The #1 Herb in the World for Anxiety?</a></h4>
-                                <div class="post-meta">
-                                    <a href="#" class="post-meta__item author"><img src="~/assets/images/home-03/post-author.png" width="28" height="28" alt=""><span>Admin</span></a>
-                                    <a href="#" class="post-meta__item btn liked-count">2<span class="biolife-icon icon-comment"></span></a>
-                                    <a href="#" class="post-meta__item btn comment-count">6<span class="biolife-icon icon-like"></span></a>
-                                    <div class="post-meta__item post-meta__item-social-box">
-                                        <span class="tbn"><i class="fa fa-share-alt" aria-hidden="true"></i></span>
-                                        <div class="inner-content">
-                                            <ul class="socials">
-                                                <li><a href="#" title="twitter" class="socail-btn"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="facebook" class="socail-btn"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="pinterest" class="socail-btn"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="youtube" class="socail-btn"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="instagram" class="socail-btn"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                                            </ul>
+                                <div class="post-content">
+                                    <h4 class="post-name"><a href="#" class="linktopost">@item.Title</a></h4>
+                                    <div class="post-meta">
+                                        <a href="#" class="post-meta__item author"><img src="~/assets/images/home-03/post-author.png" width="28" height="28" alt=""><span>@item.Author</span></a>
+                                        <a href="#" class="post-meta__item btn liked-count">@item.Like<span class="biolife-icon icon-comment"></span></a>
+                                        <a href="#" class="post-meta__item btn comment-count">6<span class="biolife-icon icon-like"></span></a>
+                                        <div class="post-meta__item post-meta__item-social-box">
+                                            <span class="tbn"><i class="fa fa-share-alt" aria-hidden="true"></i></span>
+                                            <div class="inner-content">
+                                                <ul class="socials">
+                                                    <li><a href="#" title="twitter" class="socail-btn"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                                    <li><a href="#" title="facebook" class="socail-btn"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                                    <li><a href="#" title="pinterest" class="socail-btn"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
+                                                    <li><a href="#" title="youtube" class="socail-btn"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+                                                    <li><a href="#" title="instagram" class="socail-btn"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                                </ul>
+                                            </div>
                                         </div>
                                     </div>
-                                </div>
-                                <p class="excerpt">Did you know that red-staining foods are excellent lymph-movers? In fact, many plants that were historically used as dyes...</p>
-                                <div class="group-buttons">
-                                    <a href="#" class="btn readmore">continue reading</a>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="post-item effect-01 style-bottom-info layout-02">
-                            <div class="thumbnail">
-                                <a href="#" class="link-to-post"><img src="~/assets/images/our-blog/post-thumb-04.jpg" width="370" height="270" alt=""></a>
-                                <div class="post-date">
-                                    <span class="date">26</span>
-                                    <span class="month">dec</span>
-                                </div>
-                            </div>
-                            <div class="post-content">
-                                <h4 class="post-name"><a href="#" class="linktopost">Ashwagandha: The #1 Herb in the World for Anxiety?</a></h4>
-                                <div class="post-meta">
-                                    <a href="#" class="post-meta__item author"><img src="~/assets/images/home-03/post-author.png" width="28" height="28" alt=""><span>Admin</span></a>
-                                    <a href="#" class="post-meta__item btn liked-count">2<span class="biolife-icon icon-comment"></span></a>
-                                    <a href="#" class="post-meta__item btn comment-count">6<span class="biolife-icon icon-like"></span></a>
-                                    <div class="post-meta__item post-meta__item-social-box">
-                                        <span class="tbn"><i class="fa fa-share-alt" aria-hidden="true"></i></span>
-                                        <div class="inner-content">
-                                            <ul class="socials">
-                                                <li><a href="#" title="twitter" class="socail-btn"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="facebook" class="socail-btn"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="pinterest" class="socail-btn"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="youtube" class="socail-btn"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="instagram" class="socail-btn"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                                            </ul>
-                                        </div>
+                                    <p class="excerpt">@item.Description</p>
+                                    <div class="group-buttons">
+                                        <a href="#" class="btn readmore">continue reading</a>
                                     </div>
                                 </div>
-                                <p class="excerpt">Did you know that red-staining foods are excellent lymph-movers? In fact, many plants that were historically used as dyes...</p>
-                                <div class="group-buttons">
-                                    <a href="#" class="btn readmore">continue reading</a>
-                                </div>
                             </div>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="post-item effect-01 style-bottom-info layout-02">
-                            <div class="thumbnail">
-                                <a href="#" class="link-to-post"><img src="~/assets/images/our-blog/post-thumb-03.jpg" width="370" height="270" alt=""></a>
-                                <div class="post-date">
-                                    <span class="date">26</span>
-                                    <span class="month">dec</span>
-                                </div>
-                            </div>
-                            <div class="post-content">
-                                <h4 class="post-name"><a href="#" class="linktopost">Ashwagandha: The #1 Herb in the World for Anxiety?</a></h4>
-                                <div class="post-meta">
-                                    <a href="#" class="post-meta__item author"><img src="~/assets/images/home-03/post-author.png" width="28" height="28" alt=""><span>Admin</span></a>
-                                    <a href="#" class="post-meta__item btn liked-count">2<span class="biolife-icon icon-comment"></span></a>
-                                    <a href="#" class="post-meta__item btn comment-count">6<span class="biolife-icon icon-like"></span></a>
-                                    <div class="post-meta__item post-meta__item-social-box">
-                                        <span class="tbn"><i class="fa fa-share-alt" aria-hidden="true"></i></span>
-                                        <div class="inner-content">
-                                            <ul class="socials">
-                                                <li><a href="#" title="twitter" class="socail-btn"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="facebook" class="socail-btn"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="pinterest" class="socail-btn"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="youtube" class="socail-btn"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="instagram" class="socail-btn"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <p class="excerpt">Did you know that red-staining foods are excellent lymph-movers? In fact, many plants that were historically used as dyes...</p>
-                                <div class="group-buttons">
-                                    <a href="#" class="btn readmore">continue reading</a>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="post-item effect-01 style-bottom-info layout-02">
-                            <div class="thumbnail">
-                                <a href="#" class="link-to-post"><img src="~/assets/images/our-blog/post-thumb-05.jpg" width="370" height="270" alt=""></a>
-                                <div class="post-date">
-                                    <span class="date">26</span>
-                                    <span class="month">dec</span>
-                                </div>
-                            </div>
-                            <div class="post-content">
-                                <h4 class="post-name"><a href="#" class="linktopost">Ashwagandha: The #1 Herb in the World for Anxiety?</a></h4>
-                                <div class="post-meta">
-                                    <a href="#" class="post-meta__item author"><img src="~/assets/images/home-03/post-author.png" width="28" height="28" alt=""><span>Admin</span></a>
-                                    <a href="#" class="post-meta__item btn liked-count">2<span class="biolife-icon icon-comment"></span></a>
-                                    <a href="#" class="post-meta__item btn comment-count">6<span class="biolife-icon icon-like"></span></a>
-                                    <div class="post-meta__item post-meta__item-social-box">
-                                        <span class="tbn"><i class="fa fa-share-alt" aria-hidden="true"></i></span>
-                                        <div class="inner-content">
-                                            <ul class="socials">
-                                                <li><a href="#" title="twitter" class="socail-btn"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="facebook" class="socail-btn"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="pinterest" class="socail-btn"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="youtube" class="socail-btn"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="instagram" class="socail-btn"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <p class="excerpt">Did you know that red-staining foods are excellent lymph-movers? In fact, many plants that were historically used as dyes...</p>
-                                <div class="group-buttons">
-                                    <a href="#" class="btn readmore">continue reading</a>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="post-item effect-01 style-bottom-info layout-02">
-                            <div class="thumbnail">
-                                <a href="#" class="link-to-post"><img src="~/assets/images/our-blog/post-thumb-06.jpg" width="370" height="270" alt=""></a>
-                                <div class="post-date">
-                                    <span class="date">26</span>
-                                    <span class="month">dec</span>
-                                </div>
-                            </div>
-                            <div class="post-content">
-                                <h4 class="post-name"><a href="#" class="linktopost">Ashwagandha: The #1 Herb in the World for Anxiety?</a></h4>
-                                <div class="post-meta">
-                                    <a href="#" class="post-meta__item author"><img src="~/assets/images/home-03/post-author.png" width="28" height="28" alt=""><span>Admin</span></a>
-                                    <a href="#" class="post-meta__item btn liked-count">2<span class="biolife-icon icon-comment"></span></a>
-                                    <a href="#" class="post-meta__item btn comment-count">6<span class="biolife-icon icon-like"></span></a>
-                                    <div class="post-meta__item post-meta__item-social-box">
-                                        <span class="tbn"><i class="fa fa-share-alt" aria-hidden="true"></i></span>
-                                        <div class="inner-content">
-                                            <ul class="socials">
-                                                <li><a href="#" title="twitter" class="socail-btn"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="facebook" class="socail-btn"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="pinterest" class="socail-btn"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="youtube" class="socail-btn"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="instagram" class="socail-btn"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <p class="excerpt">Did you know that red-staining foods are excellent lymph-movers? In fact, many plants that were historically used as dyes...</p>
-                                <div class="group-buttons">
-                                    <a href="#" class="btn readmore">continue reading</a>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
+                        </li>
+                      }
                 </ul>
             </div>
         </div>

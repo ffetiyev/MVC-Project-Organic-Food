@@ -18,6 +18,9 @@ namespace Organic_Food_MVC_Project.Data
         public DbSet<Slider> Sliders { get; set; }
         public DbSet<Service> Services { get; set; } 
         public DbSet<Blog> Blogs { get; set; }
+        public DbSet<Advertisement> Advertisement { get; set; }
+        public DbSet<About> About { get; set; }
+        public DbSet<Brand> Brands { get; set; }
 
     }
 }

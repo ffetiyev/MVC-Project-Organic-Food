@@ -135,14 +135,14 @@
     <StaticWebAssetEndpoint Include="_content/Organic-Food-MVC-Project/assets/css/style.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\style.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-AG702LpdeMkad5/GK5CJoYikdEI2z/S7SaboePcWC2s="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"381795"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022AG702LpdeMkad5/GK5CJoYikdEI2z/S7SaboePcWC2s=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Mar 2025 07:19:01 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TISwKUfEP2KKYSPNsJ28jyV6qPSrymv6d7hbzt08ttQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"381728"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022TISwKUfEP2KKYSPNsJ28jyV6qPSrymv6d7hbzt08ttQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Mar 2025 16:17:29 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Organic-Food-MVC-Project/assets/css/style.wocr9jykft.css">
+    <StaticWebAssetEndpoint Include="_content/Organic-Food-MVC-Project/assets/css/style.o7q4q128vm.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\style.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wocr9jykft"},{"Name":"integrity","Value":"sha256-AG702LpdeMkad5/GK5CJoYikdEI2z/S7SaboePcWC2s="},{"Name":"label","Value":"_content/Organic-Food-MVC-Project/assets/css/style.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"381795"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022AG702LpdeMkad5/GK5CJoYikdEI2z/S7SaboePcWC2s=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Mar 2025 07:19:01 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"o7q4q128vm"},{"Name":"integrity","Value":"sha256-TISwKUfEP2KKYSPNsJ28jyV6qPSrymv6d7hbzt08ttQ="},{"Name":"label","Value":"_content/Organic-Food-MVC-Project/assets/css/style.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"381728"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022TISwKUfEP2KKYSPNsJ28jyV6qPSrymv6d7hbzt08ttQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Mar 2025 16:17:29 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Organic-Food-MVC-Project/assets/fonts/biolifebbd0.eot">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\biolifebbd0.eot'))</AssetFile>
