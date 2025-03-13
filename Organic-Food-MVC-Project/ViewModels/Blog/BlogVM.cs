@@ -1,4 +1,6 @@
-﻿namespace Organic_Food_MVC_Project.ViewModels.Blog
+﻿using Organic_Food_MVC_Project.Models.Blog;
+
+namespace Organic_Food_MVC_Project.ViewModels.Blog
 {
     public class BlogVM
     {

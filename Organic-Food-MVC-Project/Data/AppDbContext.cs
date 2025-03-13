@@ -22,5 +22,7 @@ namespace Organic_Food_MVC_Project.Data
         public DbSet<About> About { get; set; }
         public DbSet<Brand> Brands { get; set; }
 
+        public DbSet<BlogCategory> BlogCategories { get; set; }
+
     }
 }

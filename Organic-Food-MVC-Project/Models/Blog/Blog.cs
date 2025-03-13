@@ -9,5 +9,7 @@
         public string Image { get; set; }
         public int Like { get; set; }
         public int Comment { get; set; }
+        public int BlogCategoryId { get; set; }
+        public BlogCategory BlogCategory { get; set; }
     }
 }

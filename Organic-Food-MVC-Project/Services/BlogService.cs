@@ -15,8 +15,9 @@ namespace Organic_Food_MVC_Project.Services
 
         public async Task<IEnumerable<BlogVM>> GetAllAsync()
         {
-            return await _context.Blogs.Select(b => new BlogVM
+            return await _context.Blogs.Include(m=>m.BlogCategory).Select(b => new BlogVM
             {
+                
                 Author = b.Author,
                 Comment = b.Comment,
                 Date = b.Date,

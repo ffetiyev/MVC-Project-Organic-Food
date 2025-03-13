@@ -1,4 +1,6 @@
-﻿    <!--Hero Section-->
+﻿@model ProductVM   
+
+ <!--Hero Section-->
 <div class="hero-section hero-background">
     <h1 class="page-title">Organic Fruits</h1>
 </div>
@@ -24,49 +26,30 @@
             <div class="sumary-product single-layout">
                 <div class="media">
                     <ul class="biolife-carousel slider-for" data-slick='{"arrows":false,"dots":false,"slidesMargin":30,"slidesToShow":1,"slidesToScroll":1,"fade":true,"asNavFor":".slider-nav"}'>
-                        <li><img src="~/assets/images/details-product/detail_01.jpg" alt="" width="500" height="500"></li>
-                        <li><img src="~/assets/images/details-product/detail_02.jpg" alt="" width="500" height="500"></li>
-                        <li><img src="~/assets/images/details-product/detail_03.jpg" alt="" width="500" height="500"></li>
-                        <li><img src="~/assets/images/details-product/detail_04.jpg" alt="" width="500" height="500"></li>
-                        <li><img src="~/assets/images/details-product/detail_05.jpg" alt="" width="500" height="500"></li>
-                        <li><img src="~/assets/images/details-product/detail_06.jpg" alt="" width="500" height="500"></li>
-                        <li><img src="~/assets/images/details-product/detail_07.jpg" alt="" width="500" height="500"></li>
+                           <li><img src="~/assets/images/products/@Model.ProductImages.FirstOrDefault(m=>m.IsMain).Name" alt="" width="500" height="500"></li>
                     </ul>
                     <ul class="biolife-carousel slider-nav" data-slick='{"arrows":false,"dots":false,"centerMode":false,"focusOnSelect":true,"slidesMargin":10,"slidesToShow":4,"slidesToScroll":1,"asNavFor":".slider-for"}'>
-                        <li><img src="~/assets/images/details-product/thumb_01.jpg" alt="" width="88" height="88"></li>
-                        <li><img src="~/assets/images/details-product/thumb_02.jpg" alt="" width="88" height="88"></li>
-                        <li><img src="~/assets/images/details-product/thumb_03.jpg" alt="" width="88" height="88"></li>
-                        <li><img src="~/assets/images/details-product/thumb_04.jpg" alt="" width="88" height="88"></li>
-                        <li><img src="~/assets/images/details-product/thumb_05.jpg" alt="" width="88" height="88"></li>
-                        <li><img src="~/assets/images/details-product/thumb_06.jpg" alt="" width="88" height="88"></li>
-                        <li><img src="~/assets/images/details-product/thumb_07.jpg" alt="" width="88" height="88"></li>
+                            @foreach (var item in Model.ProductImages)
+                        {
+                            <li><img src="~/assets/images/products/@item.Name" alt="" width="88" height="88"></li>
+                        }
                     </ul>
                 </div>
                 <div class="product-attribute">
-                    <h3 class="title">Organic 10 Assorted Flavors Jelly Beans, 5.5 Oz</h3>
+                    <h3 class="title">@Model.Name</h3>
                     <div class="rating">
                         <p class="star-rating"><span class="width-80percent"></span></p>
                         <span class="review-count">(04 Reviews)</span>
                         <span class="qa-text">Q&A</span>
-                        <b class="category">By: Natural food</b>
+                        <b class="category">By: @Model.CategoryName</b>
                     </div>
                     <span class="sku">Sku: #76584HH</span>
-                    <p class="excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel maximus lacus. Duis ut mauris eget justo dictum tempus sed vel tellus.</p>
+                    <p class="excerpt">@Model.Description</p>
                     <div class="price">
-                        <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
-                        <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
+                        <ins><span class="price-amount"><span class="currencySymbol">£</span>@(Model.Price - Model.Price * Model.Discounts.First().Percent/100)</span></ins>
+                        <del><span class="price-amount"><span class="currencySymbol">£</span>@Model.Price</span></del>
                     </div>
-                    <div class="product-atts">
-                        <div class="atts-item">
-                            <span class="title">Color:</span>
-                            <ul class="color-list">
-                                <li class="color-item"><a href="#" class="c-link"><span class="symbol img-color"></span>Multi</a></li>
-                                <li class="color-item"><a href="#" class="c-link"><span class="symbol hex-code color-01"></span>Red</a></li>
-                                <li class="color-item"><a href="#" class="c-link"><span class="symbol hex-code color-02"></span>Orrange</a></li>
-                                <li class="color-item"><a href="#" class="c-link"><span class="symbol hex-code color-03"></span>Other</a></li>
-                            </ul>
-                        </div>
-                    </div>
+
                     <div class="shipping-info">
                         <p class="shipping-day">3-Day Shipping</p>
                         <p class="for-today">Pree Pickup Today</p>

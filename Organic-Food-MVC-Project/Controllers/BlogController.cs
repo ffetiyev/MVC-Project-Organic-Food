@@ -7,14 +7,24 @@ namespace Organic_Food_MVC_Project.Controllers
     public class BlogController : Controller
     {
         private readonly IBlogService _blogService;
-        public BlogController(IBlogService blogService)
+        private readonly IBlogCategoryService _blogCategoryService;
+        public BlogController(IBlogService blogService,
+                              IBlogCategoryService blogCategoryService)
         {
+            _blogCategoryService = blogCategoryService;
             _blogService = blogService;
         }
         public async Task<IActionResult> Index()
         {
             IEnumerable<BlogVM> blogs=await _blogService.GetAllAsync();
-            return View(blogs);
+            IEnumerable<BlogCategoryVM> blogCategories= await _blogCategoryService.GetAllAsync();
+
+            BlogAllVM result = new BlogAllVM()
+            {
+                Blogs = blogs,
+                BlogCategories = blogCategories
+            };
+            return View(result);
         }
     }
 }

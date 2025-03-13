@@ -1,5 +1,5 @@
 ﻿
-@model IEnumerable<BlogVM>
+@model BlogAllVM
 
     <!--Hero Section-->
 <div class="hero-section hero-background style-02">
@@ -21,7 +21,7 @@
             <div id="main-content" class="main-content col-lg-9 col-md-8 col-sm-12 col-xs-12">
 
                 <ul class="posts-list main-post-list">
-                      @foreach (var item in Model)
+                      @foreach (var item in Model.Blogs)
                     {
                         <li class="post-elem">
                             <div class="post-item style-left-info">
@@ -81,11 +81,10 @@
                         <h4 class="wgt-title">Categories</h4>
                         <div class="wgt-content">
                             <ul class="cat-list">
-                                <li class="cat-list-item"><a href="#" class="cat-link">Beauty (30)</a></li>
-                                <li class="cat-list-item"><a href="#" class="cat-link">Fashion (50)</a></li>
-                                <li class="cat-list-item"><a href="#" class="cat-link">Food (10)</a></li>
-                                <li class="cat-list-item"><a href="#" class="cat-link">Life Style (60)</a></li>
-                                <li class="cat-list-item"><a href="#" class="cat-link">Travel (10)</a></li>
+                                @foreach (var item in Model.BlogCategories)
+                                {
+                                    <li class="cat-list-item"><a href="#" class="cat-link">@item.Name (@item.BlogCount)</a></li>
+                                }
                             </ul>
                         </div>
                     </div>
@@ -95,39 +94,20 @@
                         <h4 class="wgt-title">Recent post</h4>
                         <div class="wgt-content">
                             <ul class="posts">
-                                <li>
-                                    <div class="wgt-post-item">
-                                        <div class="thumb">
-                                            <a href="#"><img src="~/assets/images/blogpost/post-wgt-01.jpg" width="80" height="58" alt=""></a>
+                                @foreach (var item in Model.Blogs.TakeLast(3))
+                                {
+                                    <li>
+                                        <div class="wgt-post-item">
+                                            <div class="thumb">
+                                                <a href="#"><img src="~/assets/images/our-blog/@item.Image" width="80" height="58" alt=""></a>
+                                            </div>
+                                            <div class="detail">
+                                                <h4 class="post-name"><a href="#">@item.Title</a></h4>
+                                                <p class="post-archive">12 May 2019<span class="comment">@item.Comment Comments</span></p>
+                                            </div>
                                         </div>
-                                        <div class="detail">
-                                            <h4 class="post-name"><a href="#">Ashwagandha: The #1 Herb in the World</a></h4>
-                                            <p class="post-archive">22 Jan 2019<span class="comment">15 Comments</span></p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="wgt-post-item">
-                                        <div class="thumb">
-                                            <a href="#"><img src="~/assets/images/blogpost/post-wgt-02.jpg" width="80" height="58" alt=""></a>
-                                        </div>
-                                        <div class="detail">
-                                            <h4 class="post-name"><a href="#">Ashwagandha: The #1 Herb in the World</a></h4>
-                                            <p class="post-archive">06 Apr 2019<span class="comment">06 Comments</span></p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="wgt-post-item">
-                                        <div class="thumb">
-                                            <a href="#"><img src="~/assets/images/blogpost/post-wgt-03.jpg" width="80" height="58" alt=""></a>
-                                        </div>
-                                        <div class="detail">
-                                            <h4 class="post-name"><a href="#">Ashwagandha: The #1 Herb in the World</a></h4>
-                                            <p class="post-archive">12 May 2019<span class="comment">08 Comments</span></p>
-                                        </div>
-                                    </div>
-                                </li>
+                                    </li>
+                                }
                             </ul>
                         </div>
                     </div>
