@@ -294,3 +294,4 @@ C:\Users\ffati\OneDrive\Desktop\PB402\Backend-MVC\Organic-Food-MVC-Project - Las
 C:\Users\ffati\OneDrive\Desktop\PB402\Backend-MVC\Organic-Food-MVC-Project - Last\Organic-Food-MVC-Project\obj\Debug\net8.0\Organic-Food-MVC-Project.pdb
 C:\Users\ffati\OneDrive\Desktop\PB402\Backend-MVC\Organic-Food-MVC-Project - Last\Organic-Food-MVC-Project\obj\Debug\net8.0\Organic-Food-MVC-Project.genruntimeconfig.cache
 C:\Users\ffati\OneDrive\Desktop\PB402\Backend-MVC\Organic-Food-MVC-Project - Last\Organic-Food-MVC-Project\obj\Debug\net8.0\ref\Organic-Food-MVC-Project.dll
+C:\Users\ffati\OneDrive\Desktop\PB402\Backend-MVC\Organic-Food-MVC-Project - Last\Organic-Food-MVC-Project\bin\Debug\net8.0\Newtonsoft.Json.dll

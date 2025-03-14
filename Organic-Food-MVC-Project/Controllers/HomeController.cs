@@ -1,5 +1,6 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
 using Organic_Food_MVC_Project.Models;
 using Organic_Food_MVC_Project.Services;
 using Organic_Food_MVC_Project.Services.Interfaces;
@@ -18,6 +19,7 @@ namespace Organic_Food_MVC_Project.Controllers
         private readonly IAboutService _aboutService;
         private readonly IBrandService _brandService;
         private readonly IBlogService _blogService;
+        private readonly IHttpContextAccessor _accessor;
         public HomeController(IProductCategoryService categoryService,
                               IProductService productService,
                               ISliderService sliderService,
@@ -25,7 +27,8 @@ namespace Organic_Food_MVC_Project.Controllers
                               IAdvertisementService advertisementService,
                               IAboutService aboutService,
                               IBrandService brandService,
-                              IBlogService blogService)
+                              IBlogService blogService,
+                              IHttpContextAccessor accessor)
         {
             _productService = productService;
             _categoryService = categoryService;
@@ -35,31 +38,56 @@ namespace Organic_Food_MVC_Project.Controllers
             _aboutService = aboutService;
             _brandService = brandService;
             _blogService = blogService;
+            _accessor = accessor;
         }
         public async Task<IActionResult> Index()
         {
             IEnumerable<CategoryVM> categories = await _categoryService.GetAllAsync();
-            IEnumerable<ProductVM> products =await _productService.GetAllAsync();
+            IEnumerable<ProductVM> products = await _productService.GetAllAsync();
             IEnumerable<SliderVM> sliders = await _sliderService.GetAllAsync();
             IEnumerable<ServiceVM> services = await _serviceService.GetAllAsync();
-            AdvertisementVM advertisement=await _advertisementService.GetAsync();
-            AboutVM about= await _aboutService.GetAsync();
+            AdvertisementVM advertisement = await _advertisementService.GetAsync();
+            AboutVM about = await _aboutService.GetAsync();
             IEnumerable<BrandVM> brands = await _brandService.GetAllAsync();
             IEnumerable<BlogVM> blogs = await _blogService.GetAllAsync();
- 
+
             HomeVM homeVM = new HomeVM()
             {
                 Blogs = blogs,
                 Brands = brands,
                 About = about,
-                Advertisement=advertisement,
-                Services=services,
-                Sliders=sliders,
-                Products=products,
-                Categories=categories
+                Advertisement = advertisement,
+                Services = services,
+                Sliders = sliders,
+                Products = products,
+                Categories = categories
             };
             return View(homeVM);
         }
+        public IActionResult AddProductToBasket(int id)
+        {
+            List<BasketVM> basketDatas = new();
+            if (_accessor.HttpContext.Request.Cookies["basket"] != null)
+            {
+                basketDatas = JsonConvert.DeserializeObject<List<BasketVM>>(_accessor.HttpContext.Request.Cookies["basket"]);
+            }
+
+            var existBasketData = basketDatas.FirstOrDefault(m => m.ProductId == id);
+            if (existBasketData == null)
+            {
+                basketDatas.Add(new BasketVM { ProductId = id, ProductCount = 1 });
+            }
+            else
+            {
+                existBasketData.ProductCount++;
+            }
+
+            _accessor.HttpContext.Response.Cookies.Append("basket",JsonConvert.SerializeObject(basketDatas));
+            var basketCount = basketDatas.Sum(m => m.ProductCount);
+            return Ok(basketCount);
+
+        }
+
 
     }
 }

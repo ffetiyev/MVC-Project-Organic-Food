@@ -1,4 +1,5 @@
-﻿    <!--Hero Section-->
+﻿ @model BasketDetailVM 
+<!--Hero Section-->
 <div class="hero-section hero-background">
     <h1 class="page-title">Organic Fruits</h1>
 </div>
@@ -27,7 +28,7 @@
                     <li>
                         <div class="price-less">
                             <span class="desc">Purchase amount</span>
-                            <span class="cost">$0.00</span>
+                            <span class="cost">.00</span>
                         </div>
                     </li>
                     <li>
@@ -50,6 +51,13 @@
             </div>
 
             <!--Cart Table-->
+            @if(Model.Products.Count<1){
+                <div class="alert alert-warning" role="alert">
+                    You haven't add any product yet!
+                </div>
+            }
+            else
+            {
             <div class="shopping-cart-container">
                 <div class="row">
                     <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
@@ -65,72 +73,42 @@
                                     </tr>
                                 </thead>
                                 <tbody>
-                                    <tr class="cart_item">
-                                        <td class="product-thumbnail" data-title="Product Name">
-                                            <a class="prd-thumb" href="#">
-                                                <figure><img width="113" height="113" src="~/assets/images/shippingcart/pr-01.jpg" alt="shipping cart"></figure>
-                                            </a>
-                                            <a class="prd-name" href="#">National Fresh Fruit</a>
-                                            <div class="action">
-                                                <a href="#" class="edit"><i class="fa fa-pencil" aria-hidden="true"></i></a>
-                                                <a href="#" class="remove"><i class="fa fa-trash-o" aria-hidden="true"></i></a>
-                                            </div>
-                                        </td>
-                                        <td class="product-price" data-title="Price">
-                                            <div class="price price-contain">
-                                                <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
-                                                <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
-                                            </div>
-                                        </td>
-                                        <td class="product-quantity" data-title="Quantity">
-                                            <div class="quantity-box type1">
-                                                <div class="qty-input">
-                                                    <input type="text" name="qty12554" value="1" data-max_value="20" data-min_value="1" data-step="1">
-                                                    <a href="#" class="qty-btn btn-up"><i class="fa fa-caret-up" aria-hidden="true"></i></a>
-                                                    <a href="#" class="qty-btn btn-down"><i class="fa fa-caret-down" aria-hidden="true"></i></a>
+                                         @foreach (KeyValuePair<ProductVM,int> item in Model.Products)
+                                        {
+                                        <tr class="cart_item">
+                                            <td class="product-thumbnail" data-title="Product Name">
+                                                <a class="prd-thumb" href="#">
+                                                    <figure><img width="113" height="113" src="~/assets/images/products/@item.Key.ProductImages.FirstOrDefault(m=>m.IsMain).Name" alt="shipping cart"></figure>
+                                                </a>
+                                                <a class="prd-name" href="#">@item.Key.Name</a>
+                                                <div class="action">
+                                                    <a href="#" class="edit"><i class="fa fa-pencil" aria-hidden="true"></i></a>
+                                                     <button style="height:15px;font-size:15px;" data-id="@item.Key.Id" class="btn-btn-danger delete-from-basket">Delete</button>
                                                 </div>
-                                            </div>
-                                        </td>
-                                        <td class="product-subtotal" data-title="Total">
-                                            <div class="price price-contain">
-                                                <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
-                                                <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
-                                            </div>
-                                        </td>
-                                    </tr>
-                                    <tr class="cart_item">
-                                        <td class="product-thumbnail" data-title="Product Name">
-                                            <a class="prd-thumb" href="#">
-                                                <figure><img width="113" height="113" src="~/assets/images/shippingcart/pr-02.jpg" alt="shipping cart"></figure>
-                                            </a>
-                                            <a class="prd-name" href="#">National Fresh Fruit</a>
-                                            <div class="action">
-                                                <a href="#" class="edit"><i class="fa fa-pencil" aria-hidden="true"></i></a>
-                                                <a href="#" class="remove"><i class="fa fa-trash-o" aria-hidden="true"></i></a>
-                                            </div>
-                                        </td>
-                                        <td class="product-price" data-title="Price">
-                                            <div class="price price-contain">
-                                                <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
-                                                <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
-                                            </div>
-                                        </td>
-                                        <td class="product-quantity" data-title="Quantity">
-                                            <div class="quantity-box type1">
-                                                <div class="qty-input">
-                                                    <input type="text" name="qty12554" value="1" data-max_value="20" data-min_value="1" data-step="1">
-                                                    <a href="#" class="qty-btn btn-up"><i class="fa fa-caret-up" aria-hidden="true"></i></a>
-                                                    <a href="#" class="qty-btn btn-down"><i class="fa fa-caret-down" aria-hidden="true"></i></a>
+                                            </td>
+                                            <td class="product-price" data-title="Price">
+                                                <div class="price price-contain">
+                                                    <ins><span class="price-amount"><span class="currencySymbol">£</span>@(item.Key.Price - item.Key.Price*item.Key.Discounts.First().Percent/100)</span></ins>
+                                                    <del><span class="price-amount"><span class="currencySymbol">£</span >@item.Key.Price </span></del>
                                                 </div>
-                                            </div>
-                                        </td>
-                                        <td class="product-subtotal" data-title="Total">
-                                            <div class="price price-contain">
-                                                <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
-                                                <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
-                                            </div>
-                                        </td>
-                                    </tr>
+                                            </td>
+                                            <td class="product-quantity" data-title="Quantity">
+                                                <div class="quantity-box type1">
+                                                    <div class="qty-input">
+                                                        <input type="text" name="qty12554" value="@item.Value" data-max_value="20" data-min_value="1" data-step="1">
+                                                        <a href="#" class="qty-btn btn-up"><i class="fa fa-caret-up" aria-hidden="true"></i></a>
+                                                        <a href="#" class="qty-btn btn-down"><i class="fa fa-caret-down" aria-hidden="true"></i></a>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td class="product-subtotal" data-title="Total">
+                                                <div class="price price-contain">
+                                                    <ins><span class="price-amount"><span class="currencySymbol">£</span>@(item.Key.Price * item.Value -item.Key.Price * item.Value*item.Key.Discounts.First().Percent/100)</span></ins>
+                                                    <del><span class="price-amount"><span class="currencySymbol">£</span>@(item.Key.Price * item.Value)</span></del>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                        }
                                     <tr class="cart_item wrap-buttons">
                                         <td class="wrap-btn-control" colspan="4">
                                             <a class="btn back-to-shop">Back to Shop</a>
@@ -146,7 +124,7 @@
                         <div class="shpcart-subtotal-block">
                             <div class="subtotal-line">
                                 <b class="stt-name">Subtotal <span class="sub">(2ittems)</span></b>
-                                <span class="stt-price">£170.00</span>
+                                <span class="stt-price">£@Model.Total</span>
                             </div>
                             <div class="subtotal-line">
                                 <b class="stt-name">Shipping</b>
@@ -181,7 +159,7 @@
                     </div>
                 </div>
             </div>
-
+            }
             <!--Related Product-->
             <div class="product-related-box single-layout">
                 <div class="biolife-title-box lg-margin-bottom-26px-im">
@@ -371,3 +349,7 @@
         </div>
     </div>
 </div>
+
+@section js{
+    <script src="~/assets/js/c"></script>
+}

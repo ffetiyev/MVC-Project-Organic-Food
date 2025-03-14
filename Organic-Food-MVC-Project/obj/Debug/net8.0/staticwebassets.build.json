@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fzHHshMybvtx7klzHCmZU6PTQXj9GB48maK8RbWrO+0=",
+  "Hash": "1+yLOYfvXGCjKBCRHWdlrV+dPNELuHcr2QeiXJTxGQE=",
   "Source": "Organic-Food-MVC-Project",
   "BasePath": "_content/Organic-Food-MVC-Project",
   "Mode": "Default",
@@ -6037,8 +6037,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "cllmkhfdha",
-      "Integrity": "MEHG2ff19VDkq2T/LN5/GrngT8RwqUp58aqyRUd2qzk=",
+      "Fingerprint": "ek7j5edhdh",
+      "Integrity": "8iWmYW/LXgLZLPIfiuBDmbzjiL0cvjkkwwv1KnJu2vA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\js\\custom.js"
@@ -30678,7 +30678,7 @@
       ]
     },
     {
-      "Route": "assets/js/custom.cllmkhfdha.js",
+      "Route": "assets/js/custom.ek7j5edhdh.js",
       "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\js\\custom.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -30688,7 +30688,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "185"
+          "Value": "1348"
         },
         {
           "Name": "Content-Type",
@@ -30696,11 +30696,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MEHG2ff19VDkq2T/LN5/GrngT8RwqUp58aqyRUd2qzk=\""
+          "Value": "\"8iWmYW/LXgLZLPIfiuBDmbzjiL0cvjkkwwv1KnJu2vA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 10:50:19 GMT"
+          "Value": "Fri, 14 Mar 2025 20:21:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30710,7 +30710,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cllmkhfdha"
+          "Value": "ek7j5edhdh"
         },
         {
           "Name": "label",
@@ -30718,7 +30718,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MEHG2ff19VDkq2T/LN5/GrngT8RwqUp58aqyRUd2qzk="
+          "Value": "sha256-8iWmYW/LXgLZLPIfiuBDmbzjiL0cvjkkwwv1KnJu2vA="
         }
       ]
     },
@@ -30733,7 +30733,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "185"
+          "Value": "1348"
         },
         {
           "Name": "Content-Type",
@@ -30741,11 +30741,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MEHG2ff19VDkq2T/LN5/GrngT8RwqUp58aqyRUd2qzk=\""
+          "Value": "\"8iWmYW/LXgLZLPIfiuBDmbzjiL0cvjkkwwv1KnJu2vA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 10:50:19 GMT"
+          "Value": "Fri, 14 Mar 2025 20:21:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30755,7 +30755,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MEHG2ff19VDkq2T/LN5/GrngT8RwqUp58aqyRUd2qzk="
+          "Value": "sha256-8iWmYW/LXgLZLPIfiuBDmbzjiL0cvjkkwwv1KnJu2vA="
         }
       ]
     },
