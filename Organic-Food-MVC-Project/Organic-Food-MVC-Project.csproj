@@ -18,7 +18,21 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\admin\assets\fonts\.DS_Store" />
+    <None Include="wwwroot\admin\assets\fonts\Roboto\.DS_Store" />
+    <None Include="wwwroot\admin\assets\images\.DS_Store" />
+    <None Include="wwwroot\admin\assets\images\auth\.DS_Store" />
+    <None Include="wwwroot\admin\assets\images\faces\.DS_Store" />
+    <None Include="wwwroot\admin\assets\js\.DS_Store" />
+    <None Include="wwwroot\admin\assets\scss\.DS_Store" />
+    <None Include="wwwroot\admin\assets\scss\components\.DS_Store" />
+    <None Include="wwwroot\admin\assets\scss\mixins\.DS_Store" />
+    <None Include="wwwroot\admin\assets\vendors\.DS_Store" />
   </ItemGroup>
 
 </Project>

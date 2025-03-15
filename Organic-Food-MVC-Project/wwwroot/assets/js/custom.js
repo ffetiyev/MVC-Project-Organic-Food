@@ -1,7 +1,14 @@
 ﻿
-document.querySelector(".related-products-categories").firstElementChild.classList.add("active");
-document.querySelector(".tab-content").firstElementChild.classList.add("active");
+let relatedCategories = document.querySelector(".related-products-categories");
+if (relatedCategories && relatedCategories.firstElementChild) {
+    relatedCategories.firstElementChild.classList.add("active");
+}
 
+
+let tabContent = document.querySelector(".tab-content");
+if (tabContent && tabContent.firstElementChild) {
+    tabContent.firstElementChild.classList.add("active");
+}
 //add product to basket
 
 let addBasketBtn = document.querySelectorAll(".add-basket");
@@ -24,11 +31,10 @@ addBasketBtn.forEach((btn) => {
 });
 
 
-let deleteFromBasketBtns = document.querySelectorAll(".delete-from-basket");
-
+let deleteFromBasketBtns = document.querySelectorAll(".delete-basket");
+ 
 deleteFromBasketBtns.forEach((btn) => {
     btn.addEventListener("click", function () {
-        alert("sdv")
         let productId = this.getAttribute("data-id");
         fetch('http://localhost:5219/Cart/Delete?id=' + productId, {
             method: "POST",
@@ -41,4 +47,4 @@ deleteFromBasketBtns.forEach((btn) => {
         });
 
     })
-});
+})

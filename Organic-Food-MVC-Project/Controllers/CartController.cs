@@ -34,7 +34,7 @@ namespace Organic_Food_MVC_Project.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Delete(int id)
+        public IActionResult Delete(int id)
         {
             List<BasketVM> basketDatas = new();
             if (_accessor.HttpContext.Request.Cookies["basket"] != null)

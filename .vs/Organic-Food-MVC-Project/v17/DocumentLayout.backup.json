@@ -3,28 +3,33 @@
   "WorkspaceRootPath": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CC1FFD0-2E22-49A8-9A33-49AC91BD575B}|Organic-Food-MVC-Project\\Organic-Food-MVC-Project.csproj|c:\\users\\ffati\\onedrive\\desktop\\pb402\\backend-mvc\\organic-food-mvc-project - last\\organic-food-mvc-project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CC1FFD0-2E22-49A8-9A33-49AC91BD575B}|Organic-Food-MVC-Project\\Organic-Food-MVC-Project.csproj|solutionrelative:organic-food-mvc-project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9CC1FFD0-2E22-49A8-9A33-49AC91BD575B}|Organic-Food-MVC-Project\\Organic-Food-MVC-Project.csproj|c:\\users\\ffati\\onedrive\\desktop\\pb402\\backend-mvc\\organic-food-mvc-project - last\\organic-food-mvc-project\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC1FFD0-2E22-49A8-9A33-49AC91BD575B}|Organic-Food-MVC-Project\\Organic-Food-MVC-Project.csproj|solutionrelative:organic-food-mvc-project\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC1FFD0-2E22-49A8-9A33-49AC91BD575B}|Organic-Food-MVC-Project\\Organic-Food-MVC-Project.csproj|c:\\users\\ffati\\onedrive\\desktop\\pb402\\backend-mvc\\organic-food-mvc-project - last\\organic-food-mvc-project\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CC1FFD0-2E22-49A8-9A33-49AC91BD575B}|Organic-Food-MVC-Project\\Organic-Food-MVC-Project.csproj|solutionrelative:organic-food-mvc-project\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_GJ11T08_SQLEXPRESS/OrganigFoodDb2/True/SqlTable/dbo.DiscountProduct.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC1FFD0-2E22-49A8-9A33-49AC91BD575B}|Organic-Food-MVC-Project\\Organic-Food-MVC-Project.csproj|c:\\users\\ffati\\onedrive\\desktop\\pb402\\backend-mvc\\organic-food-mvc-project - last\\organic-food-mvc-project\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CC1FFD0-2E22-49A8-9A33-49AC91BD575B}|Organic-Food-MVC-Project\\Organic-Food-MVC-Project.csproj|solutionrelative:organic-food-mvc-project\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_GJ11T08_SQLEXPRESS/OrganigFoodDb2/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC1FFD0-2E22-49A8-9A33-49AC91BD575B}|Organic-Food-MVC-Project\\Organic-Food-MVC-Project.csproj|c:\\users\\ffati\\onedrive\\desktop\\pb402\\backend-mvc\\organic-food-mvc-project - last\\organic-food-mvc-project\\wwwroot\\assets\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{9CC1FFD0-2E22-49A8-9A33-49AC91BD575B}|Organic-Food-MVC-Project\\Organic-Food-MVC-Project.csproj|solutionrelative:organic-food-mvc-project\\wwwroot\\assets\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_GJ11T08_SQLEXPRESS/OrganigFoodDb2/True/SqlTable/dbo.Discounts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC1FFD0-2E22-49A8-9A33-49AC91BD575B}|Organic-Food-MVC-Project\\Organic-Food-MVC-Project.csproj|c:\\users\\ffati\\onedrive\\desktop\\pb402\\backend-mvc\\organic-food-mvc-project - last\\organic-food-mvc-project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CC1FFD0-2E22-49A8-9A33-49AC91BD575B}|Organic-Food-MVC-Project\\Organic-Food-MVC-Project.csproj|solutionrelative:organic-food-mvc-project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9CC1FFD0-2E22-49A8-9A33-49AC91BD575B}|Organic-Food-MVC-Project\\Organic-Food-MVC-Project.csproj|c:\\users\\ffati\\onedrive\\desktop\\pb402\\backend-mvc\\organic-food-mvc-project - last\\organic-food-mvc-project\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CC1FFD0-2E22-49A8-9A33-49AC91BD575B}|Organic-Food-MVC-Project\\Organic-Food-MVC-Project.csproj|solutionrelative:organic-food-mvc-project\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC1FFD0-2E22-49A8-9A33-49AC91BD575B}|Organic-Food-MVC-Project\\Organic-Food-MVC-Project.csproj|c:\\users\\ffati\\onedrive\\desktop\\pb402\\backend-mvc\\organic-food-mvc-project - last\\organic-food-mvc-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CC1FFD0-2E22-49A8-9A33-49AC91BD575B}|Organic-Food-MVC-Project\\Organic-Food-MVC-Project.csproj|solutionrelative:organic-food-mvc-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CC1FFD0-2E22-49A8-9A33-49AC91BD575B}|Organic-Food-MVC-Project\\Organic-Food-MVC-Project.csproj|c:\\users\\ffati\\onedrive\\desktop\\pb402\\backend-mvc\\organic-food-mvc-project - last\\organic-food-mvc-project\\wwwroot\\admin\\assets\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9CC1FFD0-2E22-49A8-9A33-49AC91BD575B}|Organic-Food-MVC-Project\\Organic-Food-MVC-Project.csproj|solutionrelative:organic-food-mvc-project\\wwwroot\\admin\\assets\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1FFD0-2E22-49A8-9A33-49AC91BD575B}|Organic-Food-MVC-Project\\Organic-Food-MVC-Project.csproj|c:\\users\\ffati\\onedrive\\desktop\\pb402\\backend-mvc\\organic-food-mvc-project - last\\organic-food-mvc-project\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CC1FFD0-2E22-49A8-9A33-49AC91BD575B}|Organic-Food-MVC-Project\\Organic-Food-MVC-Project.csproj|solutionrelative:organic-food-mvc-project\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC1FFD0-2E22-49A8-9A33-49AC91BD575B}|Organic-Food-MVC-Project\\Organic-Food-MVC-Project.csproj|c:\\users\\ffati\\onedrive\\desktop\\pb402\\backend-mvc\\organic-food-mvc-project - last\\organic-food-mvc-project\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CC1FFD0-2E22-49A8-9A33-49AC91BD575B}|Organic-Food-MVC-Project\\Organic-Food-MVC-Project.csproj|solutionrelative:organic-food-mvc-project\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +39,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Products [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_GJ11T08_SQLEXPRESS/OrganigFoodDb2/True/SqlTable/dbo.Products.sql",
+              "ToolTip": "dbo.Products [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-15T21:08:35.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.DiscountProduct [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_GJ11T08_SQLEXPRESS/OrganigFoodDb2/True/SqlTable/dbo.DiscountProduct.sql",
+              "ToolTip": "dbo.DiscountProduct [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-15T21:08:26.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Discounts [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_GJ11T08_SQLEXPRESS/OrganigFoodDb2/True/SqlTable/dbo.Discounts.sql",
+              "ToolTip": "dbo.Discounts [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-15T21:04:54.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Organic-Food-MVC-Project\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Organic-Food-MVC-Project\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T19:00:02.84Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
@@ -46,80 +94,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Organic-Food-MVC-Project\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "Organic-Food-MVC-Project\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABpAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-14T20:27:43.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "custom.js",
-              "DocumentMoniker": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\js\\custom.js",
-              "RelativeDocumentMoniker": "Organic-Food-MVC-Project\\wwwroot\\assets\\js\\custom.js",
-              "ToolTip": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\js\\custom.js",
-              "RelativeToolTip": "Organic-Food-MVC-Project\\wwwroot\\assets\\js\\custom.js",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAswBIAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-14T20:11:08.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "Organic-Food-MVC-Project\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\Controllers\\CartController.cs",
-              "RelativeToolTip": "Organic-Food-MVC-Project\\Controllers\\CartController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAgwDQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T15:24:48.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\Views\\Cart\\Index.cshtml",
-              "RelativeDocumentMoniker": "Organic-Food-MVC-Project\\Views\\Cart\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\Views\\Cart\\Index.cshtml",
-              "RelativeToolTip": "Organic-Food-MVC-Project\\Views\\Cart\\Index.cshtml",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAvwGEAAAB9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-14T14:57:36.504Z",
+              "DocumentIndex": 5,
+              "Title": "custom.css",
+              "DocumentMoniker": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\admin\\assets\\css\\custom.css",
+              "RelativeDocumentMoniker": "Organic-Food-MVC-Project\\wwwroot\\admin\\assets\\css\\custom.css",
+              "ToolTip": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\admin\\assets\\css\\custom.css",
+              "RelativeToolTip": "Organic-Food-MVC-Project\\wwwroot\\admin\\assets\\css\\custom.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-15T20:42:05.258Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Organic-Food-MVC-Project\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Organic-Food-MVC-Project\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAAAIgAAABbAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Organic-Food-MVC-Project\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Organic-Food-MVC-Project\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-14T12:39:01.595Z",
+              "WhenOpened": "2025-03-15T10:11:10.793Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Organic-Food-MVC-Project\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Organic-Food-MVC-Project\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAADwv0QAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Organic-Food-MVC-Project\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Organic-Food-MVC-Project\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwCgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T10:48:37.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Organic-Food-MVC-Project\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Organic-Food-MVC-Project\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAuwBcBAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T12:24:41.495Z",
+              "WhenOpened": "2025-03-15T10:10:50.852Z",
               "EditorCaption": ""
             }
           ]
