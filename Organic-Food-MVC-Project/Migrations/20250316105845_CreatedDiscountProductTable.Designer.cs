@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Organic_Food_MVC_Project.Data;
 
@@ -11,9 +12,11 @@ using Organic_Food_MVC_Project.Data;
 namespace Organic_Food_MVC_Project.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250316105845_CreatedDiscountProductTable")]
+    partial class CreatedDiscountProductTable
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -21,6 +24,21 @@ namespace Organic_Food_MVC_Project.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
+
+            modelBuilder.Entity("DiscountProduct", b =>
+                {
+                    b.Property<int>("DiscountsId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("ProductsId")
+                        .HasColumnType("int");
+
+                    b.HasKey("DiscountsId", "ProductsId");
+
+                    b.HasIndex("ProductsId");
+
+                    b.ToTable("DiscountProduct");
+                });
 
             modelBuilder.Entity("Organic_Food_MVC_Project.Models.Blog.Blog", b =>
                 {
@@ -343,6 +361,21 @@ namespace Organic_Food_MVC_Project.Migrations
                     b.ToTable("Settings");
                 });
 
+            modelBuilder.Entity("DiscountProduct", b =>
+                {
+                    b.HasOne("Organic_Food_MVC_Project.Models.Home.Discount", null)
+                        .WithMany()
+                        .HasForeignKey("DiscountsId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Organic_Food_MVC_Project.Models.Home.Product", null)
+                        .WithMany()
+                        .HasForeignKey("ProductsId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
             modelBuilder.Entity("Organic_Food_MVC_Project.Models.Blog.Blog", b =>
                 {
                     b.HasOne("Organic_Food_MVC_Project.Models.Blog.BlogCategory", "BlogCategory")
@@ -357,13 +390,13 @@ namespace Organic_Food_MVC_Project.Migrations
             modelBuilder.Entity("Organic_Food_MVC_Project.Models.Home.DiscountProduct", b =>
                 {
                     b.HasOne("Organic_Food_MVC_Project.Models.Home.Discount", "Discount")
-                        .WithMany("DiscountProducts")
+                        .WithMany()
                         .HasForeignKey("DiscountId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.HasOne("Organic_Food_MVC_Project.Models.Home.Product", "Product")
-                        .WithMany("DiscountProducts")
+                        .WithMany()
                         .HasForeignKey("ProductId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -400,15 +433,8 @@ namespace Organic_Food_MVC_Project.Migrations
                     b.Navigation("Blogs");
                 });
 
-            modelBuilder.Entity("Organic_Food_MVC_Project.Models.Home.Discount", b =>
-                {
-                    b.Navigation("DiscountProducts");
-                });
-
             modelBuilder.Entity("Organic_Food_MVC_Project.Models.Home.Product", b =>
                 {
-                    b.Navigation("DiscountProducts");
-
                     b.Navigation("ProductImages");
                 });
 

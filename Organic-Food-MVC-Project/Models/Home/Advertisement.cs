@@ -1,4 +1,5 @@
 ﻿
+
 namespace Organic_Food_MVC_Project.Models.Home
 {
     public class Advertisement : BaseEntity

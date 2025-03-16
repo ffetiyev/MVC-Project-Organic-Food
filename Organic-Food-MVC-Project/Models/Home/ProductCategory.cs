@@ -1,4 +1,4 @@
-﻿namespace Organic_Food_MVC_Project.Models.Product
+﻿namespace Organic_Food_MVC_Project.Models.Home
 {
     public class ProductCategory : BaseEntity
     {

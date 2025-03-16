@@ -367,11 +367,15 @@ wwwroot\assets\images\our-blog\post-thumb-wide-01.jpg
 wwwroot\assets\images\our-blog\post-thumb-wide-02.jpg
 wwwroot\assets\images\products\1a609516-2d21-472b-aec0-848dad06d321-p-08.jpg
 wwwroot\assets\images\products\2cb3312b-29c1-4792-8d4c-3c1343ae5eaap-07.jpg
+wwwroot\assets\images\products\2cc9aae1-9357-49be-8de7-b80b37ee5054-p-09.jpg
 wwwroot\assets\images\products\7b18c26b-80d6-4c77-a055-19ea45b4594b-p-06.jpg
 wwwroot\assets\images\products\8cf70f9f-16f6-4058-9f03-3597c0779795-p-14.jpg
 wwwroot\assets\images\products\9414bc43-ecb0-4ded-af21-9045bf19b104-p-07.jpg
 wwwroot\assets\images\products\cc2b9957-2e2e-4426-9848-4dfe067a6325-p-02.jpg
 wwwroot\assets\images\products\cceb4577-4557-4c53-a143-074822d32fd2-p-08.jpg
+wwwroot\assets\images\products\cd7fccc0-4ec9-4c04-9b07-5c965e114c90-p-01.jpg
+wwwroot\assets\images\products\f1eba73f-471d-49a0-8837-570b5c1da362-f9446be3-9ad3-4029-859a-28e619079d05-9414bc43-ecb0-4ded-af21-9045bf19b104-p-07.jpg
+wwwroot\assets\images\products\f9446be3-9ad3-4029-859a-28e619079d05-9414bc43-ecb0-4ded-af21-9045bf19b104-p-07.jpg
 wwwroot\assets\images\products\p-01.jpg
 wwwroot\assets\images\products\p-02.jpg
 wwwroot\assets\images\products\p-03.jpg

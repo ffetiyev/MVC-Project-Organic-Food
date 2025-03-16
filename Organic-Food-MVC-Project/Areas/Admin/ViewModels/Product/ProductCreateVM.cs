@@ -1,4 +1,4 @@
-﻿using Organic_Food_MVC_Project.Models.Product;
+﻿using Organic_Food_MVC_Project.Models.Home;
 using Organic_Food_MVC_Project.ViewModels.Home;
 using System.ComponentModel.DataAnnotations;
 

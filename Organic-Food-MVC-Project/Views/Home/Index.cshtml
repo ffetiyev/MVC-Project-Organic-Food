@@ -37,7 +37,7 @@
         <div class="special-slide">
             <div class="container">
                 <ul class="biolife-carousel dots_ring_style" data-slick='{"arrows": false, "dots": true, "slidesMargin": 30, "slidesToShow": 1, "infinite": true, "speed": 800, "responsive":[{"breakpoint":1200, "settings":{ "slidesToShow": 1}},{"breakpoint":768, "settings":{ "slidesToShow": 2, "slidesMargin":20, "dots": false}},{"breakpoint":480, "settings":{ "slidesToShow": 1}}]}'>
-                    @foreach (var item in Model.Products.TakeLast(4))
+                    @foreach (var item in Model.Products.Where(m => m.Discounts?.Any() == true).TakeLast(4))
                     {
                         <li>
                             <div class="slide-contain biolife-banner__special">
@@ -221,16 +221,21 @@
                                 <h3 class="title">Deals of the day</h3>
                             </div>
                             <ul class="products biolife-carousel nav-top-right nav-none-on-mobile" data-slick='{"arrows":true, "dots":false, "infinite":false, "speed":400, "slidesMargin":30, "slidesToShow":1}'>
-                                  @foreach (var item in Model.Products.OrderByDescending(m=>m.Discounts.Max(m=>m.Percent)).ToList())
+                                @foreach (var item in Model.Products
+                                .OrderByDescending(m => m.Discounts.Select(d => d.Percent).DefaultIfEmpty(0).Max()).ToList())
                                 {
                                     <li class="product-item">
                                         <div class="contain-product deal-layout contain-product__deal-layout">
                                             <div class="product-thumb">
                                                 <a href="#" class="link-to-product">
-                                                    <img src="~/assets/images/products/@item.ProductImages.FirstOrDefault(m=>m.IsMain==true).Name" alt="dd" width="330" height="330" class="product-thumnail">
+                                                    <img src="~/assets/images/products/@(item.ProductImages.FirstOrDefault(m => m.IsMain)?.Name ?? "default.jpg")"
+                                                         alt="dd" width="330" height="330" class="product-thumnail">
                                                 </a>
                                                 <div class="labels">
-                                                    <span class="sale-label">@item.Discounts.First().Percent%</span>
+                                                    @if (item.Discounts.Any())
+                                                    {
+                                                        <span class="sale-label">@item.Discounts.First().Percent%</span>
+                                                    }
                                                 </div>
                                             </div>
                                             <div class="info">
@@ -238,8 +243,26 @@
                                                 <b class="categories">Fresh Fruit</b>
                                                 <h4 class="product-title"><a href="#" class="pr-name">@item.Name</a></h4>
                                                 <div class="price ">
-                                                    <ins><span class="price-amount"><span class="currencySymbol">£</span>@(item.Price - item.Price * item.Discounts.First().Percent / 100)</span></ins>
-                                                    <del><span class="price-amount"><span class="currencySymbol">£</span>@item.Price</span></del>
+                                                    @if (item.Discounts.Any())
+                                                    {
+                                                        <ins>
+                                                            <span class="price-amount">
+                                                                <span class="currencySymbol">£</span>
+                                                                @(item.Price - item.Price * item.Discounts.First().Percent / 100)
+                                                            </span>
+                                                        </ins>
+                                                        <del>
+                                                            <span class="price-amount">
+                                                                <span class="currencySymbol">£</span>@item.Price
+                                                            </span>
+                                                        </del>
+                                                    }
+                                                    else
+                                                    {
+                                                        <span class="price-amount">
+                                                            <span class="currencySymbol">£</span>@item.Price
+                                                        </span>
+                                                    }
                                                 </div>
                                                 <div class="slide-down-box">
                                                     <p class="message">@item.Description</p>
@@ -253,6 +276,7 @@
                                         </div>
                                     </li>
                                 }
+
                             </ul>
                         </div>
                     </div>
@@ -262,21 +286,40 @@
                                 <h3 class="title">Top Rated Products</h3>
                             </div>
                             <ul class="products biolife-carousel eq-height-contain nav-center-03 nav-none-on-mobile row-space-29px" data-slick='{"rows":2,"arrows":true,"dots":false,"infinite":false,"speed":400,"slidesMargin":30,"slidesToShow":2,"responsive":[{"breakpoint":1200,"settings":{ "rows":2, "slidesToShow": 2}},{"breakpoint":992, "settings":{ "rows":2, "slidesToShow": 1}},{"breakpoint":768, "settings":{ "rows":2, "slidesToShow": 2}},{"breakpoint":500, "settings":{ "rows":2, "slidesToShow": 1}}]}'>
-                                    @foreach (var item in Model.Products.TakeLast(8))
+                                @foreach (var item in Model.Products.TakeLast(8))
                                 {
                                     <li class="product-item">
                                         <div class="contain-product right-info-layout contain-product__right-info-layout">
                                             <div class="product-thumb">
                                                 <a href="#" class="link-to-product">
-                                                    <img src="~/assets/images/products/@item.ProductImages.FirstOrDefault(m=>m.IsMain==true).Name" alt="dd" width="270" height="270" class="product-thumnail">
+                                                    <img src="~/assets/images/products/@(item.ProductImages.FirstOrDefault(m => m.IsMain)?.Name ?? "default.jpg")"
+                                                         alt="dd" width="270" height="270" class="product-thumnail">
                                                 </a>
                                             </div>
                                             <div class="info">
                                                 <b class="categories">@item.CategoryName</b>
                                                 <h4 class="product-title"><a href="#" class="pr-name">@item.Description</a></h4>
                                                 <div class="price ">
-                                                    <ins><span class="price-amount"><span class="currencySymbol">£</span>@(item.Price - item.Price * item.Discounts.First().Percent / 100)</span></ins>
-                                                    <del><span class="price-amount"><span class="currencySymbol">£</span>@item.Price</span></del>
+                                                    @if (item.Discounts.Any())
+                                                    {
+                                                        <ins>
+                                                            <span class="price-amount">
+                                                                <span class="currencySymbol">£</span>
+                                                                @(item.Price - item.Price * item.Discounts.First().Percent / 100)
+                                                            </span>
+                                                        </ins>
+                                                        <del>
+                                                            <span class="price-amount">
+                                                                <span class="currencySymbol">£</span>@item.Price
+                                                            </span>
+                                                        </del>
+                                                    }
+                                                    else
+                                                    {
+                                                        <span class="price-amount">
+                                                            <span class="currencySymbol">£</span>@item.Price
+                                                        </span>
+                                                    }
                                                 </div>
                                                 <div class="rating">
                                                     <p class="star-rating"><span class="width-80percent"></span></p>
@@ -286,6 +329,7 @@
                                         </div>
                                     </li>
                                 }
+
                             </ul>
                             <div class="biolife-banner style-01 biolife-banner__style-01 xs-margin-top-80px-im sm-margin-top-30px-im">
                                 <div class="banner-contain">

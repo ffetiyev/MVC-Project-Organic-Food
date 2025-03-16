@@ -28,23 +28,30 @@
                 </tr>
             </thead>
             <tbody>
-                    <tr>
-                        <td>
-                            @Model.Name
-                        </td>
-                        <td>
-                        @Model.Description
-                        </td>
-                        <td>
-                        @Model.Price
-                        </td>
-                        <td>
-                        @Model.CategoryName
-                        </td>
+                <tr>
                     <td>
-                        @foreach (var item in Model.Discounts)
+                        @Model.Name
+                    </td>
+                    <td>
+                        @Model.Description
+                    </td>
+                    <td>
+                        @Model.Price
+                    </td>
+                    <td>
+                        @Model.CategoryName
+                    </td>
+                    <td>
+                        @if (Model.Discounts.Any())
                         {
-                            <span> @item.Percent%</span>
+                            @foreach (var item in Model.Discounts)
+                            {
+                                <span> @item.Percent%</span>
+                            }
+                        }
+                        else
+                        {
+                            <span>No discount</span>
                         }
                     </td>
                         <td>

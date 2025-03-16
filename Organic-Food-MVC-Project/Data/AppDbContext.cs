@@ -2,7 +2,6 @@
 using Organic_Food_MVC_Project.Models;
 using Organic_Food_MVC_Project.Models.Blog;
 using Organic_Food_MVC_Project.Models.Home;
-using Organic_Food_MVC_Project.Models.Product;
 
 namespace Organic_Food_MVC_Project.Data
 {
@@ -21,8 +20,8 @@ namespace Organic_Food_MVC_Project.Data
         public DbSet<Advertisement> Advertisement { get; set; }
         public DbSet<About> About { get; set; }
         public DbSet<Brand> Brands { get; set; }
-
         public DbSet<BlogCategory> BlogCategories { get; set; }
+        public DbSet<DiscountProduct> DiscountsProducts { get; set; }
 
     }
 }

@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Organic_Food_MVC_Project.Areas.Admin.ViewModels.Product;
 using Organic_Food_MVC_Project.Data;
-using Organic_Food_MVC_Project.Models.Product;
+using Organic_Food_MVC_Project.Models.Home;
 using Organic_Food_MVC_Project.Services.Interfaces;
 using Organic_Food_MVC_Project.ViewModels.Home;
 
@@ -142,7 +142,6 @@ namespace Organic_Food_MVC_Project.Areas.Admin.Controllers
             {
                 Name=request.Name,
                 Description=request.Description,
-                Discounts=productDiscounts,
                 Price=request.Price,
                 ProductCategoryId= _context.ProductCategories.FirstOrDefaultAsync(m => m.Name == request.CategoryName).Id,
                 ProductImages = productImages
@@ -176,7 +175,7 @@ namespace Organic_Food_MVC_Project.Areas.Admin.Controllers
             if(id == null) return BadRequest();
             var existProduct = await _context.Products.Include(m => m.ProductImages)
                                                       .Include(m=>m.ProductCategory)
-                                                      .Include(m=>m.Discounts)
+                                                      .Include(m=>m.DiscountProducts)
                                                       .FirstOrDefaultAsync(m => m.Id == id);
             if (existProduct == null) return NotFound();
 
@@ -202,7 +201,6 @@ namespace Organic_Food_MVC_Project.Areas.Admin.Controllers
                 Description= existProduct.Description,
                 Price= existProduct.Price,
                 CategoryName=existProduct.ProductCategory.Name,
-                Discount=existProduct.Discounts.First().Percent,
                 ProductImages=existProduct.ProductImages.Select(m=>new ProductImageVM
                 {
                     IsMain=m.IsMain,
@@ -218,7 +216,7 @@ namespace Organic_Food_MVC_Project.Areas.Admin.Controllers
             if (id == null) return BadRequest();
             var existProduct = await _context.Products.Include(m => m.ProductImages)
                                                       .Include(m => m.ProductCategory)
-                                                      .Include(m => m.Discounts)
+                                                      .Include(m => m.DiscountProducts)
                                                       .FirstOrDefaultAsync(m => m.Id == id);
             if (existProduct == null) return NotFound();
 
@@ -271,9 +269,8 @@ namespace Organic_Food_MVC_Project.Areas.Admin.Controllers
             existProduct.Name=request.Name;
             existProduct.Description=request.Description;
             existProduct.Price=request.Price;
-            existProduct.Discounts.Add(new Discount { Id=_context.Discounts.FirstOrDefaultAsync(m=>m.Percent==request.Discount).Id});
-            existProduct.ProductCategory=await _context.ProductCategories.FirstOrDefaultAsync(m=>m.Name==request.CategoryName);
-
+            
+            existProduct.ProductCategoryId= _context.ProductCategories.FirstOrDefaultAsync(m=>m.Name==request.CategoryName).Id;
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }

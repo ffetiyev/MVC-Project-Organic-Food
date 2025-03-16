@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Organic_Food_MVC_Project.Areas.Admin.ViewModels.ProductCategory;
 using Organic_Food_MVC_Project.Data;
+using Organic_Food_MVC_Project.Models.Home;
 
 namespace Organic_Food_MVC_Project.Areas.Admin.Controllers
 {
@@ -45,7 +46,7 @@ namespace Organic_Food_MVC_Project.Areas.Admin.Controllers
                 ModelState.AddModelError("Name", "This Category already exist!");
                 return View(request);
             }
-            await _context.ProductCategories.AddAsync(new Models.Product.ProductCategory { Name=request.Name});
+            await _context.ProductCategories.AddAsync(new ProductCategory { Name=request.Name});
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }

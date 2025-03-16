@@ -1,4 +1,4 @@
-﻿using Organic_Food_MVC_Project.Models.Product;
+﻿using Organic_Food_MVC_Project.Models.Home;
 
 namespace Organic_Food_MVC_Project.ViewModels.Home
 {

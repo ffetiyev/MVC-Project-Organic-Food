@@ -6642,6 +6642,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\products\2cb3312b-29c1-4792-8d4c-3c1343ae5eaap-07.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\products\2cc9aae1-9357-49be-8de7-b80b37ee5054-p-09.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Organic-Food-MVC-Project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Organic-Food-MVC-Project</BasePath>
+      <RelativePath>assets/images/products/2cc9aae1-9357-49be-8de7-b80b37ee5054-p-09.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>llv9f2t40t</Fingerprint>
+      <Integrity>x3BhbDJjJ5yJKR7w7zXpN43llWFT3STPuzQIhbr4PS8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\products\2cc9aae1-9357-49be-8de7-b80b37ee5054-p-09.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\products\7b18c26b-80d6-4c77-a055-19ea45b4594b-p-06.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>Organic-Food-MVC-Project</SourceId>
@@ -6731,6 +6749,60 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\products\cceb4577-4557-4c53-a143-074822d32fd2-p-08.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\products\cd7fccc0-4ec9-4c04-9b07-5c965e114c90-p-01.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Organic-Food-MVC-Project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Organic-Food-MVC-Project</BasePath>
+      <RelativePath>assets/images/products/cd7fccc0-4ec9-4c04-9b07-5c965e114c90-p-01.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>y5zlzd5zr2</Fingerprint>
+      <Integrity>Rgz8H8OjWIM3PFETvZkBvN/Jp1QG8P5YMr/jV5doizs=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\products\cd7fccc0-4ec9-4c04-9b07-5c965e114c90-p-01.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\products\f1eba73f-471d-49a0-8837-570b5c1da362-f9446be3-9ad3-4029-859a-28e619079d05-9414bc43-ecb0-4ded-af21-9045bf19b104-p-07.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Organic-Food-MVC-Project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Organic-Food-MVC-Project</BasePath>
+      <RelativePath>assets/images/products/f1eba73f-471d-49a0-8837-570b5c1da362-f9446be3-9ad3-4029-859a-28e619079d05-9414bc43-ecb0-4ded-af21-9045bf19b104-p-07.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>h99dki8nd2</Fingerprint>
+      <Integrity>2zOReKcEfJb2u3jdqU8DZifDxNOJ7VsZecWVxkoSzjo=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\products\f1eba73f-471d-49a0-8837-570b5c1da362-f9446be3-9ad3-4029-859a-28e619079d05-9414bc43-ecb0-4ded-af21-9045bf19b104-p-07.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\products\f9446be3-9ad3-4029-859a-28e619079d05-9414bc43-ecb0-4ded-af21-9045bf19b104-p-07.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Organic-Food-MVC-Project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Organic-Food-MVC-Project</BasePath>
+      <RelativePath>assets/images/products/f9446be3-9ad3-4029-859a-28e619079d05-9414bc43-ecb0-4ded-af21-9045bf19b104-p-07.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>h99dki8nd2</Fingerprint>
+      <Integrity>2zOReKcEfJb2u3jdqU8DZifDxNOJ7VsZecWVxkoSzjo=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\products\f9446be3-9ad3-4029-859a-28e619079d05-9414bc43-ecb0-4ded-af21-9045bf19b104-p-07.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\products\p-01.jpg'))">
       <SourceType>Package</SourceType>
