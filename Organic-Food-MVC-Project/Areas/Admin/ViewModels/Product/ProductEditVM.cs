@@ -13,10 +13,12 @@ namespace Organic_Food_MVC_Project.Areas.Admin.ViewModels.Product
         [Required]
         public decimal Price { get; set; }
         [Required]
+        public int CategoryId { get; set; }
         public string CategoryName { get; set; }
         [Required]
         public IEnumerable<IFormFile> UploadImages { get; set; }
         public IEnumerable<ProductImageVM> ProductImages { get; set; }
-        public int Discount { get; set; }
+        public int? NewDiscount { get; set; }
+        public int? ExistDiscounts { get; set; }
     }
 }

@@ -16,6 +16,5 @@ namespace Organic_Food_MVC_Project.Areas.Admin.ViewModels.Product
         public string CategoryName { get; set; }
         [Required]
         public IEnumerable<IFormFile> Images { get; set; }
-        public int Discount { get; set; }
     }
 }

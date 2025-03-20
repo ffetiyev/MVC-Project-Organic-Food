@@ -23,13 +23,7 @@
 			</select>
 			<span asp-validation-for="CategoryName" class="text-danger d-block mb-2"></span>
 		</div>
-		<div>
-			<label >Product Discount</label>
-			<select asp-for="Discount" asp-items="@ViewBag.Discounts">
-				<option>Select one option</option>
-			</select>
-			<span asp-validation-for="Discount" class="text-danger d-block mb-2"></span>
-		</div>
+
 		<div class="form-group">
 			<label >Product Images</label>
 			<input type="file" multiple id="name" asp-for="Images" />

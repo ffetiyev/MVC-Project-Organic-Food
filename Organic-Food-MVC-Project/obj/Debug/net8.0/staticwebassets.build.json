@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uusp3hoeTDMnoG4sz0u2pf6YZ4OFi18nYSmn/+M10iM=",
+  "Hash": "6Mn1mnULuE8niyjOo7A0pk7AiG2a47Ct+G0QNBSobps=",
   "Source": "Organic-Food-MVC-Project",
   "BasePath": "_content/Organic-Food-MVC-Project",
   "Mode": "Default",
@@ -1443,6 +1443,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Identity": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\admin\\assets\\js\\product.js",
+      "SourceId": "Organic-Food-MVC-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\",
+      "BasePath": "_content/Organic-Food-MVC-Project",
+      "RelativePath": "admin/assets/js/product#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e9pt8evh78",
+      "Integrity": "3qrchZCsJjmLLm971w1FBZQU8/GyQoxz2tl6nE9rT/8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\product.js"
     },
     {
       "Identity": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\admin\\assets\\js\\tabs.js",
@@ -5330,6 +5351,48 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\home-02\\main-slide-03.jpg"
     },
     {
+      "Identity": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\79af0adf-f9a7-47c0-aa68-55839237afe8-slide-01-child-01.png",
+      "SourceId": "Organic-Food-MVC-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\",
+      "BasePath": "_content/Organic-Food-MVC-Project",
+      "RelativePath": "assets/images/home-03/79af0adf-f9a7-47c0-aa68-55839237afe8-slide-01-child-01#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rmmim9de0a",
+      "Integrity": "7dJL7z0libO55x0LauCqBiKQQAD9hv2JaeAK9kfuniI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\home-03\\79af0adf-f9a7-47c0-aa68-55839237afe8-slide-01-child-01.png"
+    },
+    {
+      "Identity": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\7b66f4d6-bf5c-4f2b-b562-8c3e6987a30b-slide-01-child-01.png",
+      "SourceId": "Organic-Food-MVC-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\",
+      "BasePath": "_content/Organic-Food-MVC-Project",
+      "RelativePath": "assets/images/home-03/7b66f4d6-bf5c-4f2b-b562-8c3e6987a30b-slide-01-child-01#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rmmim9de0a",
+      "Integrity": "7dJL7z0libO55x0LauCqBiKQQAD9hv2JaeAK9kfuniI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\home-03\\7b66f4d6-bf5c-4f2b-b562-8c3e6987a30b-slide-01-child-01.png"
+    },
+    {
       "Identity": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\bg_banner_pomotion_org.png",
       "SourceId": "Organic-Food-MVC-Project",
       "SourceType": "Discovered",
@@ -5475,6 +5538,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\home-03\\brd-04.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\d3f4a6b4-1824-4d7b-92f1-cd160e922441-slomotion_02_bg.png",
+      "SourceId": "Organic-Food-MVC-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\",
+      "BasePath": "_content/Organic-Food-MVC-Project",
+      "RelativePath": "assets/images/home-03/d3f4a6b4-1824-4d7b-92f1-cd160e922441-slomotion_02_bg#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "19zct67xjz",
+      "Integrity": "dQI/Sd5ynYpsjH+rAFheq/PoingS5vqZgbB47X1Qxgk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\home-03\\d3f4a6b4-1824-4d7b-92f1-cd160e922441-slomotion_02_bg.png"
+    },
+    {
+      "Identity": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\db226011-c2b1-4b32-b399-9b26f88d4564-slomotion_02_bg.png",
+      "SourceId": "Organic-Food-MVC-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\",
+      "BasePath": "_content/Organic-Food-MVC-Project",
+      "RelativePath": "assets/images/home-03/db226011-c2b1-4b32-b399-9b26f88d4564-slomotion_02_bg#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "19zct67xjz",
+      "Integrity": "dQI/Sd5ynYpsjH+rAFheq/PoingS5vqZgbB47X1Qxgk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\home-03\\db226011-c2b1-4b32-b399-9b26f88d4564-slomotion_02_bg.png"
     },
     {
       "Identity": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\green-slide-01.jpg",
@@ -7766,12 +7871,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\our-blog\\post-thumb-wide-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\1a609516-2d21-472b-aec0-848dad06d321-p-08.jpg",
+      "Identity": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\0013eb6a-d59e-4f5b-973e-7e9b74e655e5-p-24.jpg",
       "SourceId": "Organic-Food-MVC-Project",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\",
       "BasePath": "_content/Organic-Food-MVC-Project",
-      "RelativePath": "assets/images/products/1a609516-2d21-472b-aec0-848dad06d321-p-08#[.{fingerprint}]?.jpg",
+      "RelativePath": "assets/images/products/0013eb6a-d59e-4f5b-973e-7e9b74e655e5-p-24#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7780,19 +7885,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "71vge2xj11",
-      "Integrity": "5RhTWHjjK66V7o0IYwHXCbNmFmjgIG1tW4dqjwzSXvo=",
+      "Fingerprint": "813no8uzxj",
+      "Integrity": "HEcQtBC61p5a9snMEwsj+74nv32o8nVXPDc2WxbANyA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\products\\1a609516-2d21-472b-aec0-848dad06d321-p-08.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\images\\products\\0013eb6a-d59e-4f5b-973e-7e9b74e655e5-p-24.jpg"
     },
     {
-      "Identity": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\2cb3312b-29c1-4792-8d4c-3c1343ae5eaap-07.jpg",
+      "Identity": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\6c4241a6-05ab-439a-821a-8b9c24998596-p-23.jpg",
       "SourceId": "Organic-Food-MVC-Project",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\",
       "BasePath": "_content/Organic-Food-MVC-Project",
-      "RelativePath": "assets/images/products/2cb3312b-29c1-4792-8d4c-3c1343ae5eaap-07#[.{fingerprint}]?.jpg",
+      "RelativePath": "assets/images/products/6c4241a6-05ab-439a-821a-8b9c24998596-p-23#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7801,19 +7906,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "h99dki8nd2",
-      "Integrity": "2zOReKcEfJb2u3jdqU8DZifDxNOJ7VsZecWVxkoSzjo=",
+      "Fingerprint": "xim9yvip2t",
+      "Integrity": "t4fOHDXfCTuJ0ADdvPpZtKYO0ZoV4kVsKLXwDehKjz8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\products\\2cb3312b-29c1-4792-8d4c-3c1343ae5eaap-07.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\images\\products\\6c4241a6-05ab-439a-821a-8b9c24998596-p-23.jpg"
     },
     {
-      "Identity": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\2cc9aae1-9357-49be-8de7-b80b37ee5054-p-09.jpg",
+      "Identity": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\7de39d4f-96a8-48ef-a181-e66dcc17a0de-p-25.jpg",
       "SourceId": "Organic-Food-MVC-Project",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\",
       "BasePath": "_content/Organic-Food-MVC-Project",
-      "RelativePath": "assets/images/products/2cc9aae1-9357-49be-8de7-b80b37ee5054-p-09#[.{fingerprint}]?.jpg",
+      "RelativePath": "assets/images/products/7de39d4f-96a8-48ef-a181-e66dcc17a0de-p-25#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7822,19 +7927,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "llv9f2t40t",
-      "Integrity": "x3BhbDJjJ5yJKR7w7zXpN43llWFT3STPuzQIhbr4PS8=",
+      "Fingerprint": "cyvaloayxz",
+      "Integrity": "RHWJwzPyu0Uj9O89VQcuxWYh4WrCBww16fFxZ6y+vaI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\products\\2cc9aae1-9357-49be-8de7-b80b37ee5054-p-09.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\images\\products\\7de39d4f-96a8-48ef-a181-e66dcc17a0de-p-25.jpg"
     },
     {
-      "Identity": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\7b18c26b-80d6-4c77-a055-19ea45b4594b-p-06.jpg",
+      "Identity": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\9a6fbd63-1ad2-4727-a6d0-e54c93dd1330-p-27.jpg",
       "SourceId": "Organic-Food-MVC-Project",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\",
       "BasePath": "_content/Organic-Food-MVC-Project",
-      "RelativePath": "assets/images/products/7b18c26b-80d6-4c77-a055-19ea45b4594b-p-06#[.{fingerprint}]?.jpg",
+      "RelativePath": "assets/images/products/9a6fbd63-1ad2-4727-a6d0-e54c93dd1330-p-27#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7843,19 +7948,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "83nz73eh6b",
-      "Integrity": "XC0s0RAnfkryNPvhJh5MGC2Uhe/1+8IlOA650NgoEog=",
+      "Fingerprint": "0i3kfhuvb8",
+      "Integrity": "uEE8hZSf6xU5BBnaSBzunCuWogaKVx5bODnFS95CT/A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\products\\7b18c26b-80d6-4c77-a055-19ea45b4594b-p-06.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\images\\products\\9a6fbd63-1ad2-4727-a6d0-e54c93dd1330-p-27.jpg"
     },
     {
-      "Identity": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\8cf70f9f-16f6-4058-9f03-3597c0779795-p-14.jpg",
+      "Identity": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\fcc1ae8f-d9ff-47bf-8346-1375fec45291-p-26.jpg",
       "SourceId": "Organic-Food-MVC-Project",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\",
       "BasePath": "_content/Organic-Food-MVC-Project",
-      "RelativePath": "assets/images/products/8cf70f9f-16f6-4058-9f03-3597c0779795-p-14#[.{fingerprint}]?.jpg",
+      "RelativePath": "assets/images/products/fcc1ae8f-d9ff-47bf-8346-1375fec45291-p-26#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7864,137 +7969,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "7d5q7zffpi",
-      "Integrity": "Vd8st7bxQqiDYqoQTQEU9Lvs5JBPjbQhuaBTQbw6FPY=",
+      "Fingerprint": "ziep6jbrrz",
+      "Integrity": "y3ejye1PM9pjNtL34YGm/m3yeDuuzO9r5Uxn694yggg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\products\\8cf70f9f-16f6-4058-9f03-3597c0779795-p-14.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\9414bc43-ecb0-4ded-af21-9045bf19b104-p-07.jpg",
-      "SourceId": "Organic-Food-MVC-Project",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\",
-      "BasePath": "_content/Organic-Food-MVC-Project",
-      "RelativePath": "assets/images/products/9414bc43-ecb0-4ded-af21-9045bf19b104-p-07#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "h99dki8nd2",
-      "Integrity": "2zOReKcEfJb2u3jdqU8DZifDxNOJ7VsZecWVxkoSzjo=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\products\\9414bc43-ecb0-4ded-af21-9045bf19b104-p-07.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\cc2b9957-2e2e-4426-9848-4dfe067a6325-p-02.jpg",
-      "SourceId": "Organic-Food-MVC-Project",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\",
-      "BasePath": "_content/Organic-Food-MVC-Project",
-      "RelativePath": "assets/images/products/cc2b9957-2e2e-4426-9848-4dfe067a6325-p-02#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "wffauvu1bv",
-      "Integrity": "rEY7qedCegkfRCoiVPw40yYKLuVBfu9FnHFW0EM4x+8=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\products\\cc2b9957-2e2e-4426-9848-4dfe067a6325-p-02.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\cceb4577-4557-4c53-a143-074822d32fd2-p-08.jpg",
-      "SourceId": "Organic-Food-MVC-Project",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\",
-      "BasePath": "_content/Organic-Food-MVC-Project",
-      "RelativePath": "assets/images/products/cceb4577-4557-4c53-a143-074822d32fd2-p-08#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "71vge2xj11",
-      "Integrity": "5RhTWHjjK66V7o0IYwHXCbNmFmjgIG1tW4dqjwzSXvo=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\products\\cceb4577-4557-4c53-a143-074822d32fd2-p-08.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\cd7fccc0-4ec9-4c04-9b07-5c965e114c90-p-01.jpg",
-      "SourceId": "Organic-Food-MVC-Project",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\",
-      "BasePath": "_content/Organic-Food-MVC-Project",
-      "RelativePath": "assets/images/products/cd7fccc0-4ec9-4c04-9b07-5c965e114c90-p-01#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "y5zlzd5zr2",
-      "Integrity": "Rgz8H8OjWIM3PFETvZkBvN/Jp1QG8P5YMr/jV5doizs=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\products\\cd7fccc0-4ec9-4c04-9b07-5c965e114c90-p-01.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\f1eba73f-471d-49a0-8837-570b5c1da362-f9446be3-9ad3-4029-859a-28e619079d05-9414bc43-ecb0-4ded-af21-9045bf19b104-p-07.jpg",
-      "SourceId": "Organic-Food-MVC-Project",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\",
-      "BasePath": "_content/Organic-Food-MVC-Project",
-      "RelativePath": "assets/images/products/f1eba73f-471d-49a0-8837-570b5c1da362-f9446be3-9ad3-4029-859a-28e619079d05-9414bc43-ecb0-4ded-af21-9045bf19b104-p-07#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "h99dki8nd2",
-      "Integrity": "2zOReKcEfJb2u3jdqU8DZifDxNOJ7VsZecWVxkoSzjo=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\products\\f1eba73f-471d-49a0-8837-570b5c1da362-f9446be3-9ad3-4029-859a-28e619079d05-9414bc43-ecb0-4ded-af21-9045bf19b104-p-07.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\f9446be3-9ad3-4029-859a-28e619079d05-9414bc43-ecb0-4ded-af21-9045bf19b104-p-07.jpg",
-      "SourceId": "Organic-Food-MVC-Project",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\",
-      "BasePath": "_content/Organic-Food-MVC-Project",
-      "RelativePath": "assets/images/products/f9446be3-9ad3-4029-859a-28e619079d05-9414bc43-ecb0-4ded-af21-9045bf19b104-p-07#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "h99dki8nd2",
-      "Integrity": "2zOReKcEfJb2u3jdqU8DZifDxNOJ7VsZecWVxkoSzjo=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\products\\f9446be3-9ad3-4029-859a-28e619079d05-9414bc43-ecb0-4ded-af21-9045bf19b104-p-07.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\images\\products\\fcc1ae8f-d9ff-47bf-8346-1375fec45291-p-26.jpg"
     },
     {
       "Identity": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-01.jpg",
@@ -8079,27 +8058,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\p-05.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-06.jpg",
-      "SourceId": "Organic-Food-MVC-Project",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\",
-      "BasePath": "_content/Organic-Food-MVC-Project",
-      "RelativePath": "assets/images/products/p-06#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "83nz73eh6b",
-      "Integrity": "XC0s0RAnfkryNPvhJh5MGC2Uhe/1+8IlOA650NgoEog=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\products\\p-06.jpg"
     },
     {
       "Identity": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-07.jpg",
@@ -15507,6 +15465,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-vKZNUk0h+PYwVAYAMoTVA7SrdBCOCp6GZpXWpdsFJXk="
+        }
+      ]
+    },
+    {
+      "Route": "admin/assets/js/product.e9pt8evh78.js",
+      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\admin\\assets\\js\\product.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1316"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3qrchZCsJjmLLm971w1FBZQU8/GyQoxz2tl6nE9rT/8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 11:05:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e9pt8evh78"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/assets/js/product.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3qrchZCsJjmLLm971w1FBZQU8/GyQoxz2tl6nE9rT/8="
+        }
+      ]
+    },
+    {
+      "Route": "admin/assets/js/product.js",
+      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\admin\\assets\\js\\product.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1316"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3qrchZCsJjmLLm971w1FBZQU8/GyQoxz2tl6nE9rT/8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 11:05:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3qrchZCsJjmLLm971w1FBZQU8/GyQoxz2tl6nE9rT/8="
         }
       ]
     },
@@ -30681,6 +30721,170 @@
       ]
     },
     {
+      "Route": "assets/images/home-03/79af0adf-f9a7-47c0-aa68-55839237afe8-slide-01-child-01.png",
+      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\79af0adf-f9a7-47c0-aa68-55839237afe8-slide-01-child-01.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "556903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7dJL7z0libO55x0LauCqBiKQQAD9hv2JaeAK9kfuniI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 09:38:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7dJL7z0libO55x0LauCqBiKQQAD9hv2JaeAK9kfuniI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/home-03/79af0adf-f9a7-47c0-aa68-55839237afe8-slide-01-child-01.rmmim9de0a.png",
+      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\79af0adf-f9a7-47c0-aa68-55839237afe8-slide-01-child-01.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "556903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7dJL7z0libO55x0LauCqBiKQQAD9hv2JaeAK9kfuniI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 09:38:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rmmim9de0a"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/home-03/79af0adf-f9a7-47c0-aa68-55839237afe8-slide-01-child-01.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7dJL7z0libO55x0LauCqBiKQQAD9hv2JaeAK9kfuniI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/home-03/7b66f4d6-bf5c-4f2b-b562-8c3e6987a30b-slide-01-child-01.png",
+      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\7b66f4d6-bf5c-4f2b-b562-8c3e6987a30b-slide-01-child-01.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "556903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7dJL7z0libO55x0LauCqBiKQQAD9hv2JaeAK9kfuniI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 12:22:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7dJL7z0libO55x0LauCqBiKQQAD9hv2JaeAK9kfuniI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/home-03/7b66f4d6-bf5c-4f2b-b562-8c3e6987a30b-slide-01-child-01.rmmim9de0a.png",
+      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\7b66f4d6-bf5c-4f2b-b562-8c3e6987a30b-slide-01-child-01.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "556903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7dJL7z0libO55x0LauCqBiKQQAD9hv2JaeAK9kfuniI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 12:22:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rmmim9de0a"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/home-03/7b66f4d6-bf5c-4f2b-b562-8c3e6987a30b-slide-01-child-01.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7dJL7z0libO55x0LauCqBiKQQAD9hv2JaeAK9kfuniI="
+        }
+      ]
+    },
+    {
       "Route": "assets/images/home-03/bg_banner_pomotion_org.9yxpe2x5u8.png",
       "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\bg_banner_pomotion_org.png",
       "Selectors": [],
@@ -31251,6 +31455,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-WBeEOVZosl9+s4jjPGOK3DVMnCDYlP2hNCQmT+xM/dc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/home-03/d3f4a6b4-1824-4d7b-92f1-cd160e922441-slomotion_02_bg.19zct67xjz.png",
+      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\d3f4a6b4-1824-4d7b-92f1-cd160e922441-slomotion_02_bg.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "273533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dQI/Sd5ynYpsjH+rAFheq/PoingS5vqZgbB47X1Qxgk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 09:39:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "19zct67xjz"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/home-03/d3f4a6b4-1824-4d7b-92f1-cd160e922441-slomotion_02_bg.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dQI/Sd5ynYpsjH+rAFheq/PoingS5vqZgbB47X1Qxgk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/home-03/d3f4a6b4-1824-4d7b-92f1-cd160e922441-slomotion_02_bg.png",
+      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\d3f4a6b4-1824-4d7b-92f1-cd160e922441-slomotion_02_bg.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "273533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dQI/Sd5ynYpsjH+rAFheq/PoingS5vqZgbB47X1Qxgk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 09:39:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dQI/Sd5ynYpsjH+rAFheq/PoingS5vqZgbB47X1Qxgk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/home-03/db226011-c2b1-4b32-b399-9b26f88d4564-slomotion_02_bg.19zct67xjz.png",
+      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\db226011-c2b1-4b32-b399-9b26f88d4564-slomotion_02_bg.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "273533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dQI/Sd5ynYpsjH+rAFheq/PoingS5vqZgbB47X1Qxgk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 12:23:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "19zct67xjz"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/home-03/db226011-c2b1-4b32-b399-9b26f88d4564-slomotion_02_bg.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dQI/Sd5ynYpsjH+rAFheq/PoingS5vqZgbB47X1Qxgk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/home-03/db226011-c2b1-4b32-b399-9b26f88d4564-slomotion_02_bg.png",
+      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\home-03\\db226011-c2b1-4b32-b399-9b26f88d4564-slomotion_02_bg.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "273533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dQI/Sd5ynYpsjH+rAFheq/PoingS5vqZgbB47X1Qxgk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 12:23:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dQI/Sd5ynYpsjH+rAFheq/PoingS5vqZgbB47X1Qxgk="
         }
       ]
     },
@@ -32343,7 +32711,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 07:19:01 GMT"
+          "Value": "Wed, 19 Mar 2025 09:38:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32380,7 +32748,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 07:19:01 GMT"
+          "Value": "Wed, 19 Mar 2025 09:38:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -40193,8 +40561,8 @@
       ]
     },
     {
-      "Route": "assets/images/products/1a609516-2d21-472b-aec0-848dad06d321-p-08.71vge2xj11.jpg",
-      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\1a609516-2d21-472b-aec0-848dad06d321-p-08.jpg",
+      "Route": "assets/images/products/0013eb6a-d59e-4f5b-973e-7e9b74e655e5-p-24.813no8uzxj.jpg",
+      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\0013eb6a-d59e-4f5b-973e-7e9b74e655e5-p-24.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -40203,7 +40571,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16133"
+          "Value": "12176"
         },
         {
           "Name": "Content-Type",
@@ -40211,11 +40579,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5RhTWHjjK66V7o0IYwHXCbNmFmjgIG1tW4dqjwzSXvo=\""
+          "Value": "\"HEcQtBC61p5a9snMEwsj+74nv32o8nVXPDc2WxbANyA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 19:41:59 GMT"
+          "Value": "Thu, 20 Mar 2025 10:50:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -40225,21 +40593,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "71vge2xj11"
+          "Value": "813no8uzxj"
         },
         {
           "Name": "label",
-          "Value": "assets/images/products/1a609516-2d21-472b-aec0-848dad06d321-p-08.jpg"
+          "Value": "assets/images/products/0013eb6a-d59e-4f5b-973e-7e9b74e655e5-p-24.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-5RhTWHjjK66V7o0IYwHXCbNmFmjgIG1tW4dqjwzSXvo="
+          "Value": "sha256-HEcQtBC61p5a9snMEwsj+74nv32o8nVXPDc2WxbANyA="
         }
       ]
     },
     {
-      "Route": "assets/images/products/1a609516-2d21-472b-aec0-848dad06d321-p-08.jpg",
-      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\1a609516-2d21-472b-aec0-848dad06d321-p-08.jpg",
+      "Route": "assets/images/products/0013eb6a-d59e-4f5b-973e-7e9b74e655e5-p-24.jpg",
+      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\0013eb6a-d59e-4f5b-973e-7e9b74e655e5-p-24.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -40248,7 +40616,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16133"
+          "Value": "12176"
         },
         {
           "Name": "Content-Type",
@@ -40256,11 +40624,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5RhTWHjjK66V7o0IYwHXCbNmFmjgIG1tW4dqjwzSXvo=\""
+          "Value": "\"HEcQtBC61p5a9snMEwsj+74nv32o8nVXPDc2WxbANyA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 19:41:59 GMT"
+          "Value": "Thu, 20 Mar 2025 10:50:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -40270,13 +40638,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5RhTWHjjK66V7o0IYwHXCbNmFmjgIG1tW4dqjwzSXvo="
+          "Value": "sha256-HEcQtBC61p5a9snMEwsj+74nv32o8nVXPDc2WxbANyA="
         }
       ]
     },
     {
-      "Route": "assets/images/products/2cb3312b-29c1-4792-8d4c-3c1343ae5eaap-07.h99dki8nd2.jpg",
-      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\2cb3312b-29c1-4792-8d4c-3c1343ae5eaap-07.jpg",
+      "Route": "assets/images/products/6c4241a6-05ab-439a-821a-8b9c24998596-p-23.jpg",
+      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\6c4241a6-05ab-439a-821a-8b9c24998596-p-23.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -40285,7 +40653,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "28723"
+          "Value": "10187"
         },
         {
           "Name": "Content-Type",
@@ -40293,11 +40661,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2zOReKcEfJb2u3jdqU8DZifDxNOJ7VsZecWVxkoSzjo=\""
+          "Value": "\"t4fOHDXfCTuJ0ADdvPpZtKYO0ZoV4kVsKLXwDehKjz8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 11:49:04 GMT"
+          "Value": "Thu, 20 Mar 2025 10:50:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-t4fOHDXfCTuJ0ADdvPpZtKYO0ZoV4kVsKLXwDehKjz8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/products/6c4241a6-05ab-439a-821a-8b9c24998596-p-23.xim9yvip2t.jpg",
+      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\6c4241a6-05ab-439a-821a-8b9c24998596-p-23.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10187"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t4fOHDXfCTuJ0ADdvPpZtKYO0ZoV4kVsKLXwDehKjz8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 10:50:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -40307,21 +40712,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "h99dki8nd2"
+          "Value": "xim9yvip2t"
         },
         {
           "Name": "label",
-          "Value": "assets/images/products/2cb3312b-29c1-4792-8d4c-3c1343ae5eaap-07.jpg"
+          "Value": "assets/images/products/6c4241a6-05ab-439a-821a-8b9c24998596-p-23.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2zOReKcEfJb2u3jdqU8DZifDxNOJ7VsZecWVxkoSzjo="
+          "Value": "sha256-t4fOHDXfCTuJ0ADdvPpZtKYO0ZoV4kVsKLXwDehKjz8="
         }
       ]
     },
     {
-      "Route": "assets/images/products/2cb3312b-29c1-4792-8d4c-3c1343ae5eaap-07.jpg",
-      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\2cb3312b-29c1-4792-8d4c-3c1343ae5eaap-07.jpg",
+      "Route": "assets/images/products/7de39d4f-96a8-48ef-a181-e66dcc17a0de-p-25.cyvaloayxz.jpg",
+      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\7de39d4f-96a8-48ef-a181-e66dcc17a0de-p-25.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -40330,7 +40735,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "28723"
+          "Value": "10408"
         },
         {
           "Name": "Content-Type",
@@ -40338,85 +40743,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2zOReKcEfJb2u3jdqU8DZifDxNOJ7VsZecWVxkoSzjo=\""
+          "Value": "\"RHWJwzPyu0Uj9O89VQcuxWYh4WrCBww16fFxZ6y+vaI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 11:49:04 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-2zOReKcEfJb2u3jdqU8DZifDxNOJ7VsZecWVxkoSzjo="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/products/2cc9aae1-9357-49be-8de7-b80b37ee5054-p-09.jpg",
-      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\2cc9aae1-9357-49be-8de7-b80b37ee5054-p-09.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10445"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"x3BhbDJjJ5yJKR7w7zXpN43llWFT3STPuzQIhbr4PS8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 07:05:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-x3BhbDJjJ5yJKR7w7zXpN43llWFT3STPuzQIhbr4PS8="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/products/2cc9aae1-9357-49be-8de7-b80b37ee5054-p-09.llv9f2t40t.jpg",
-      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\2cc9aae1-9357-49be-8de7-b80b37ee5054-p-09.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10445"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"x3BhbDJjJ5yJKR7w7zXpN43llWFT3STPuzQIhbr4PS8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 07:05:43 GMT"
+          "Value": "Thu, 20 Mar 2025 10:50:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -40426,21 +40757,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "llv9f2t40t"
+          "Value": "cyvaloayxz"
         },
         {
           "Name": "label",
-          "Value": "assets/images/products/2cc9aae1-9357-49be-8de7-b80b37ee5054-p-09.jpg"
+          "Value": "assets/images/products/7de39d4f-96a8-48ef-a181-e66dcc17a0de-p-25.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-x3BhbDJjJ5yJKR7w7zXpN43llWFT3STPuzQIhbr4PS8="
+          "Value": "sha256-RHWJwzPyu0Uj9O89VQcuxWYh4WrCBww16fFxZ6y+vaI="
         }
       ]
     },
     {
-      "Route": "assets/images/products/7b18c26b-80d6-4c77-a055-19ea45b4594b-p-06.83nz73eh6b.jpg",
-      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\7b18c26b-80d6-4c77-a055-19ea45b4594b-p-06.jpg",
+      "Route": "assets/images/products/7de39d4f-96a8-48ef-a181-e66dcc17a0de-p-25.jpg",
+      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\7de39d4f-96a8-48ef-a181-e66dcc17a0de-p-25.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -40449,7 +40780,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "29779"
+          "Value": "10408"
         },
         {
           "Name": "Content-Type",
@@ -40457,56 +40788,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XC0s0RAnfkryNPvhJh5MGC2Uhe/1+8IlOA650NgoEog=\""
+          "Value": "\"RHWJwzPyu0Uj9O89VQcuxWYh4WrCBww16fFxZ6y+vaI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 19:57:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "83nz73eh6b"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/images/products/7b18c26b-80d6-4c77-a055-19ea45b4594b-p-06.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-XC0s0RAnfkryNPvhJh5MGC2Uhe/1+8IlOA650NgoEog="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/products/7b18c26b-80d6-4c77-a055-19ea45b4594b-p-06.jpg",
-      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\7b18c26b-80d6-4c77-a055-19ea45b4594b-p-06.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "29779"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XC0s0RAnfkryNPvhJh5MGC2Uhe/1+8IlOA650NgoEog=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 19:57:53 GMT"
+          "Value": "Thu, 20 Mar 2025 10:50:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -40516,13 +40802,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XC0s0RAnfkryNPvhJh5MGC2Uhe/1+8IlOA650NgoEog="
+          "Value": "sha256-RHWJwzPyu0Uj9O89VQcuxWYh4WrCBww16fFxZ6y+vaI="
         }
       ]
     },
     {
-      "Route": "assets/images/products/8cf70f9f-16f6-4058-9f03-3597c0779795-p-14.7d5q7zffpi.jpg",
-      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\8cf70f9f-16f6-4058-9f03-3597c0779795-p-14.jpg",
+      "Route": "assets/images/products/9a6fbd63-1ad2-4727-a6d0-e54c93dd1330-p-27.0i3kfhuvb8.jpg",
+      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\9a6fbd63-1ad2-4727-a6d0-e54c93dd1330-p-27.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -40531,7 +40817,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "22875"
+          "Value": "12516"
         },
         {
           "Name": "Content-Type",
@@ -40539,11 +40825,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Vd8st7bxQqiDYqoQTQEU9Lvs5JBPjbQhuaBTQbw6FPY=\""
+          "Value": "\"uEE8hZSf6xU5BBnaSBzunCuWogaKVx5bODnFS95CT/A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 19:41:59 GMT"
+          "Value": "Thu, 20 Mar 2025 10:50:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -40553,21 +40839,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7d5q7zffpi"
+          "Value": "0i3kfhuvb8"
         },
         {
           "Name": "label",
-          "Value": "assets/images/products/8cf70f9f-16f6-4058-9f03-3597c0779795-p-14.jpg"
+          "Value": "assets/images/products/9a6fbd63-1ad2-4727-a6d0-e54c93dd1330-p-27.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Vd8st7bxQqiDYqoQTQEU9Lvs5JBPjbQhuaBTQbw6FPY="
+          "Value": "sha256-uEE8hZSf6xU5BBnaSBzunCuWogaKVx5bODnFS95CT/A="
         }
       ]
     },
     {
-      "Route": "assets/images/products/8cf70f9f-16f6-4058-9f03-3597c0779795-p-14.jpg",
-      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\8cf70f9f-16f6-4058-9f03-3597c0779795-p-14.jpg",
+      "Route": "assets/images/products/9a6fbd63-1ad2-4727-a6d0-e54c93dd1330-p-27.jpg",
+      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\9a6fbd63-1ad2-4727-a6d0-e54c93dd1330-p-27.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -40576,7 +40862,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "22875"
+          "Value": "12516"
         },
         {
           "Name": "Content-Type",
@@ -40584,11 +40870,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Vd8st7bxQqiDYqoQTQEU9Lvs5JBPjbQhuaBTQbw6FPY=\""
+          "Value": "\"uEE8hZSf6xU5BBnaSBzunCuWogaKVx5bODnFS95CT/A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 19:41:59 GMT"
+          "Value": "Thu, 20 Mar 2025 10:50:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -40598,13 +40884,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Vd8st7bxQqiDYqoQTQEU9Lvs5JBPjbQhuaBTQbw6FPY="
+          "Value": "sha256-uEE8hZSf6xU5BBnaSBzunCuWogaKVx5bODnFS95CT/A="
         }
       ]
     },
     {
-      "Route": "assets/images/products/9414bc43-ecb0-4ded-af21-9045bf19b104-p-07.h99dki8nd2.jpg",
-      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\9414bc43-ecb0-4ded-af21-9045bf19b104-p-07.jpg",
+      "Route": "assets/images/products/fcc1ae8f-d9ff-47bf-8346-1375fec45291-p-26.jpg",
+      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\fcc1ae8f-d9ff-47bf-8346-1375fec45291-p-26.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -40613,7 +40899,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "28723"
+          "Value": "11452"
         },
         {
           "Name": "Content-Type",
@@ -40621,11 +40907,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2zOReKcEfJb2u3jdqU8DZifDxNOJ7VsZecWVxkoSzjo=\""
+          "Value": "\"y3ejye1PM9pjNtL34YGm/m3yeDuuzO9r5Uxn694yggg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 19:57:53 GMT"
+          "Value": "Thu, 20 Mar 2025 10:50:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y3ejye1PM9pjNtL34YGm/m3yeDuuzO9r5Uxn694yggg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/products/fcc1ae8f-d9ff-47bf-8346-1375fec45291-p-26.ziep6jbrrz.jpg",
+      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\fcc1ae8f-d9ff-47bf-8346-1375fec45291-p-26.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11452"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y3ejye1PM9pjNtL34YGm/m3yeDuuzO9r5Uxn694yggg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 10:50:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -40635,462 +40958,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "h99dki8nd2"
+          "Value": "ziep6jbrrz"
         },
         {
           "Name": "label",
-          "Value": "assets/images/products/9414bc43-ecb0-4ded-af21-9045bf19b104-p-07.jpg"
+          "Value": "assets/images/products/fcc1ae8f-d9ff-47bf-8346-1375fec45291-p-26.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2zOReKcEfJb2u3jdqU8DZifDxNOJ7VsZecWVxkoSzjo="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/products/9414bc43-ecb0-4ded-af21-9045bf19b104-p-07.jpg",
-      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\9414bc43-ecb0-4ded-af21-9045bf19b104-p-07.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "28723"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2zOReKcEfJb2u3jdqU8DZifDxNOJ7VsZecWVxkoSzjo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 19:57:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-2zOReKcEfJb2u3jdqU8DZifDxNOJ7VsZecWVxkoSzjo="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/products/cc2b9957-2e2e-4426-9848-4dfe067a6325-p-02.jpg",
-      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\cc2b9957-2e2e-4426-9848-4dfe067a6325-p-02.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33533"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rEY7qedCegkfRCoiVPw40yYKLuVBfu9FnHFW0EM4x+8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 11:53:03 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-rEY7qedCegkfRCoiVPw40yYKLuVBfu9FnHFW0EM4x+8="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/products/cc2b9957-2e2e-4426-9848-4dfe067a6325-p-02.wffauvu1bv.jpg",
-      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\cc2b9957-2e2e-4426-9848-4dfe067a6325-p-02.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33533"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rEY7qedCegkfRCoiVPw40yYKLuVBfu9FnHFW0EM4x+8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 11:53:03 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wffauvu1bv"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/images/products/cc2b9957-2e2e-4426-9848-4dfe067a6325-p-02.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rEY7qedCegkfRCoiVPw40yYKLuVBfu9FnHFW0EM4x+8="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/products/cceb4577-4557-4c53-a143-074822d32fd2-p-08.71vge2xj11.jpg",
-      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\cceb4577-4557-4c53-a143-074822d32fd2-p-08.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16133"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5RhTWHjjK66V7o0IYwHXCbNmFmjgIG1tW4dqjwzSXvo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 20:38:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "71vge2xj11"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/images/products/cceb4577-4557-4c53-a143-074822d32fd2-p-08.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-5RhTWHjjK66V7o0IYwHXCbNmFmjgIG1tW4dqjwzSXvo="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/products/cceb4577-4557-4c53-a143-074822d32fd2-p-08.jpg",
-      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\cceb4577-4557-4c53-a143-074822d32fd2-p-08.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16133"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5RhTWHjjK66V7o0IYwHXCbNmFmjgIG1tW4dqjwzSXvo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 20:38:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-5RhTWHjjK66V7o0IYwHXCbNmFmjgIG1tW4dqjwzSXvo="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/products/cd7fccc0-4ec9-4c04-9b07-5c965e114c90-p-01.jpg",
-      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\cd7fccc0-4ec9-4c04-9b07-5c965e114c90-p-01.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13724"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Rgz8H8OjWIM3PFETvZkBvN/Jp1QG8P5YMr/jV5doizs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 15:51:16 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Rgz8H8OjWIM3PFETvZkBvN/Jp1QG8P5YMr/jV5doizs="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/products/cd7fccc0-4ec9-4c04-9b07-5c965e114c90-p-01.y5zlzd5zr2.jpg",
-      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\cd7fccc0-4ec9-4c04-9b07-5c965e114c90-p-01.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13724"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Rgz8H8OjWIM3PFETvZkBvN/Jp1QG8P5YMr/jV5doizs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 15:51:16 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "y5zlzd5zr2"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/images/products/cd7fccc0-4ec9-4c04-9b07-5c965e114c90-p-01.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Rgz8H8OjWIM3PFETvZkBvN/Jp1QG8P5YMr/jV5doizs="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/products/f1eba73f-471d-49a0-8837-570b5c1da362-f9446be3-9ad3-4029-859a-28e619079d05-9414bc43-ecb0-4ded-af21-9045bf19b104-p-07.h99dki8nd2.jpg",
-      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\f1eba73f-471d-49a0-8837-570b5c1da362-f9446be3-9ad3-4029-859a-28e619079d05-9414bc43-ecb0-4ded-af21-9045bf19b104-p-07.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "28723"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2zOReKcEfJb2u3jdqU8DZifDxNOJ7VsZecWVxkoSzjo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 15:51:16 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "h99dki8nd2"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/images/products/f1eba73f-471d-49a0-8837-570b5c1da362-f9446be3-9ad3-4029-859a-28e619079d05-9414bc43-ecb0-4ded-af21-9045bf19b104-p-07.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-2zOReKcEfJb2u3jdqU8DZifDxNOJ7VsZecWVxkoSzjo="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/products/f1eba73f-471d-49a0-8837-570b5c1da362-f9446be3-9ad3-4029-859a-28e619079d05-9414bc43-ecb0-4ded-af21-9045bf19b104-p-07.jpg",
-      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\f1eba73f-471d-49a0-8837-570b5c1da362-f9446be3-9ad3-4029-859a-28e619079d05-9414bc43-ecb0-4ded-af21-9045bf19b104-p-07.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "28723"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2zOReKcEfJb2u3jdqU8DZifDxNOJ7VsZecWVxkoSzjo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 15:51:16 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-2zOReKcEfJb2u3jdqU8DZifDxNOJ7VsZecWVxkoSzjo="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/products/f9446be3-9ad3-4029-859a-28e619079d05-9414bc43-ecb0-4ded-af21-9045bf19b104-p-07.h99dki8nd2.jpg",
-      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\f9446be3-9ad3-4029-859a-28e619079d05-9414bc43-ecb0-4ded-af21-9045bf19b104-p-07.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "28723"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2zOReKcEfJb2u3jdqU8DZifDxNOJ7VsZecWVxkoSzjo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 07:05:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "h99dki8nd2"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/images/products/f9446be3-9ad3-4029-859a-28e619079d05-9414bc43-ecb0-4ded-af21-9045bf19b104-p-07.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-2zOReKcEfJb2u3jdqU8DZifDxNOJ7VsZecWVxkoSzjo="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/products/f9446be3-9ad3-4029-859a-28e619079d05-9414bc43-ecb0-4ded-af21-9045bf19b104-p-07.jpg",
-      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\f9446be3-9ad3-4029-859a-28e619079d05-9414bc43-ecb0-4ded-af21-9045bf19b104-p-07.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "28723"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2zOReKcEfJb2u3jdqU8DZifDxNOJ7VsZecWVxkoSzjo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 07:05:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-2zOReKcEfJb2u3jdqU8DZifDxNOJ7VsZecWVxkoSzjo="
+          "Value": "sha256-y3ejye1PM9pjNtL34YGm/m3yeDuuzO9r5Uxn694yggg="
         }
       ]
     },
@@ -41419,88 +41295,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-WYLILmocqnFI0XLixvP20cKJsdItMumm3b19agX32S4="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/products/p-06.83nz73eh6b.jpg",
-      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-06.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "29779"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XC0s0RAnfkryNPvhJh5MGC2Uhe/1+8IlOA650NgoEog=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 07:19:01 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "83nz73eh6b"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/images/products/p-06.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-XC0s0RAnfkryNPvhJh5MGC2Uhe/1+8IlOA650NgoEog="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/products/p-06.jpg",
-      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\images\\products\\p-06.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "29779"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XC0s0RAnfkryNPvhJh5MGC2Uhe/1+8IlOA650NgoEog=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 07:19:01 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-XC0s0RAnfkryNPvhJh5MGC2Uhe/1+8IlOA650NgoEog="
         }
       ]
     },
@@ -49317,7 +49111,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 14:51:48 GMT"
+          "Value": "Thu, 20 Mar 2025 10:28:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -49354,7 +49148,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 14:51:48 GMT"
+          "Value": "Thu, 20 Mar 2025 10:28:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -49399,7 +49193,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 14:51:48 GMT"
+          "Value": "Thu, 20 Mar 2025 10:28:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -49444,7 +49238,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 14:51:48 GMT"
+          "Value": "Thu, 20 Mar 2025 10:28:58 GMT"
         },
         {
           "Name": "Cache-Control",

@@ -69,13 +69,6 @@ namespace Organic_Food_MVC_Project.Areas.Admin.Controllers
 
             ViewBag.Categories = categories;
 
-            var discounts = await _context.Discounts.Select(m => new SelectListItem
-            {
-                Text = m.Percent.ToString(),
-                Value = m.Percent.ToString(),
-            }).ToListAsync();
-
-            ViewBag.Discounts = discounts;
             return View();
         }
         [HttpPost]
@@ -89,14 +82,6 @@ namespace Organic_Food_MVC_Project.Areas.Admin.Controllers
             }).ToListAsync();
 
             ViewBag.Categories = categories;
-
-            var discounts = await _context.Discounts.Select(m => new SelectListItem
-            {
-                Text = m.Percent.ToString(),
-                Value = m.Percent.ToString(),
-            }).ToListAsync();
-
-            ViewBag.Discounts = discounts;
 
             if (!ModelState.IsValid) return View(request);
 
@@ -133,19 +118,15 @@ namespace Organic_Food_MVC_Project.Areas.Admin.Controllers
                 });
             }
             productImages.FirstOrDefault().IsMain = true;
-            List<Discount> productDiscounts = new List<Discount>();
-            productDiscounts.Add(new Discount
-            {
-                Percent = request.Discount,
-            });
-            await _context.Products.AddAsync(new Product
-            {
-                Name=request.Name,
-                Description=request.Description,
-                Price=request.Price,
-                ProductCategoryId= _context.ProductCategories.FirstOrDefaultAsync(m => m.Name == request.CategoryName).Id,
+
+            Product newProduct= new Product(){
+                Name = request.Name,
+                Description = request.Description,
+                Price = request.Price,
+                ProductCategoryId = _context.ProductCategories.FirstOrDefault(m => m.Name == request.CategoryName).Id,
                 ProductImages = productImages
-            });
+            };
+            await _context.Products.AddAsync(newProduct);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
@@ -182,7 +163,7 @@ namespace Organic_Food_MVC_Project.Areas.Admin.Controllers
             var categories = await _context.ProductCategories.Select(m => new SelectListItem
             {
                 Text = m.Name,
-                Value = m.Name,
+                Value = m.Id.ToString(),
             }).ToListAsync();
 
             ViewBag.Categories = categories;
@@ -190,19 +171,28 @@ namespace Organic_Food_MVC_Project.Areas.Admin.Controllers
             var discounts = await _context.Discounts.Select(m => new SelectListItem
             {
                 Text = m.Percent.ToString(),
-                Value = m.Percent.ToString(),
+                Value = m.Id.ToString(),
             }).ToListAsync();
 
             ViewBag.Discounts = discounts;
+
+            var existDiscounts = await _context.DiscountsProducts.Include(m=>m.Discount).Where(m => m.ProductId == id).Select(m=>new SelectListItem
+            {
+                Text=m.Discount.Percent.ToString(),
+                Value = m.Discount.Id.ToString(),
+            }).ToListAsync();
+
+            ViewBag.ExistDiscounts = existDiscounts;
             return View(new ProductEditVM
             {
                 Id=existProduct.Id,
                 Name= existProduct.Name,
                 Description= existProduct.Description,
                 Price= existProduct.Price,
-                CategoryName=existProduct.ProductCategory.Name,
+                CategoryId=existProduct.ProductCategoryId,
                 ProductImages=existProduct.ProductImages.Select(m=>new ProductImageVM
                 {
+                    Id=m.Id,
                     IsMain=m.IsMain,
                     Name=m.Name,
                 }).ToList(),
@@ -223,7 +213,7 @@ namespace Organic_Food_MVC_Project.Areas.Admin.Controllers
             var categories = await _context.ProductCategories.Select(m => new SelectListItem
             {
                 Text = m.Name,
-                Value = m.Name,
+                Value = m.Id.ToString(),
             }).ToListAsync();
 
             ViewBag.Categories = categories;
@@ -231,10 +221,18 @@ namespace Organic_Food_MVC_Project.Areas.Admin.Controllers
             var discounts = await _context.Discounts.Select(m => new SelectListItem
             {
                 Text = m.Percent.ToString(),
-                Value = m.Percent.ToString(),
+                Value = m.Id.ToString(),
             }).ToListAsync();
 
             ViewBag.Discounts = discounts;
+
+            var existDiscounts = await _context.DiscountsProducts.Include(m => m.Discount).Where(m => m.ProductId == id).Select(m => new SelectListItem
+            {
+                Text = m.Discount.Percent.ToString(),
+                Value = m.Discount.Id.ToString(),
+            }).ToListAsync();
+
+            ViewBag.ExistDiscounts = existDiscounts;
 
             if (ModelState.IsValid) return View(request);
 
@@ -266,13 +264,60 @@ namespace Organic_Food_MVC_Project.Areas.Admin.Controllers
                 }
                 await _context.ProductImages.AddRangeAsync(uploadImages);
             }
+
+            if (request.ExistDiscounts!=null)
+            {
+                var existDiscount = await _context.DiscountsProducts.FirstOrDefaultAsync(m => m.DiscountId == request.ExistDiscounts);
+
+                _context.DiscountsProducts.Remove(existDiscount);
+            }
+            if (request.NewDiscount != null)
+            {
+                await _context.DiscountsProducts.AddAsync(new DiscountProduct { ProductId=request.Id,DiscountId=(int)request.NewDiscount});
+            }
             existProduct.Name=request.Name;
             existProduct.Description=request.Description;
-            existProduct.Price=request.Price;
-            
-            existProduct.ProductCategoryId= _context.ProductCategories.FirstOrDefaultAsync(m=>m.Name==request.CategoryName).Id;
+            existProduct.Price=request.Price;  
+            existProduct.ProductCategoryId= request.CategoryId;
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
+        }
+
+        [HttpPost]
+
+        public async Task<IActionResult> DeleteImageFromProduct(int? id)
+        {
+            if (id == null) return BadRequest();
+            var existProductImage = await _context.ProductImages.FirstOrDefaultAsync(m=>m.Id==id);
+            if (existProductImage == null) return NotFound();
+
+            string filePath = Path.Combine(_env.WebRootPath,"assets", "images", "products", existProductImage.Name);
+            if(System.IO.File.Exists(filePath))
+            {
+                System.IO.File.Delete(filePath);
+            }
+
+            _context.ProductImages.Remove(existProductImage);
+            await _context.SaveChangesAsync();
+            return Ok();
+
+        }
+        [HttpPost]
+        public async Task<IActionResult> SetImageMain(int? id)
+        {
+            if (id == null) return BadRequest();
+            var existProductImage = await _context.ProductImages.FirstOrDefaultAsync(m => m.Id == id);
+            if (existProductImage == null) return NotFound();
+
+            var product = await _context.Products.Include(m=>m.ProductImages).FirstOrDefaultAsync(m=>m.ProductImages.Contains(existProductImage));
+            if (product == null) return NotFound();
+            product.ProductImages.FirstOrDefault(m => m.IsMain == true).IsMain = false;
+
+            existProductImage.IsMain = true;
+
+            await _context.SaveChangesAsync();
+
+            return Ok();
         }
     }
 }

@@ -6,11 +6,13 @@
 			{
 				<div class="@(item.IsMain ? "product-exist-images border-main" : "product-exist-images")">
 					<img src="~/assets/images/products/@item.Name" style="width:250px;height:200px;" />
-					@if (item.IsMain == false)
-					{
-						<button class="btn btn-danger delete-btn ">Delete</button>
-						<button class="btn btn-primary set-btn ">Set main</button>
-					}
+					<div class="set-delete-btns" data-id="@item.Id">
+						@if (item.IsMain == false)
+						{	
+								<button class="btn btn-danger delete-btn ">Delete</button>
+								<button class="btn btn-primary set-btn ">Set main</button>
+						}
+					</div>
 				</div>
 			}
 		</div>
@@ -33,17 +35,24 @@
 		</div>
 		<div>
 			<label>Product Category</label>
-			<select asp-for="CategoryName" asp-items="@ViewBag.Categories">
+			<select asp-for="CategoryId" asp-items="@ViewBag.Categories">
 				<option>Select one option</option>
 			</select>
-			<span asp-validation-for="CategoryName" class="text-danger d-block mb-2"></span>
+			<span asp-validation-for="CategoryId" class="text-danger d-block mb-2"></span>
 		</div>
 		<div>
-			<label>Product Discount</label>
-			<select asp-for="Discount" asp-items="@ViewBag.Discounts">
+			<label>Add Discount</label>
+			<select asp-for="NewDiscount" asp-items="@ViewBag.Discounts">
 				<option>Select one option</option>
 			</select>
-			<span asp-validation-for="Discount" class="text-danger d-block mb-2"></span>
+			<span asp-validation-for="NewDiscount" class="text-danger d-block mb-2"></span>
+		</div>
+		<div>
+			<label>Remove Discount</label>
+			<select asp-for="ExistDiscounts" asp-items="@ViewBag.ExistDiscounts">
+				<option>Select one option</option>
+			</select>
+			<span asp-validation-for="ExistDiscounts" class="text-danger d-block mb-2"></span>
 		</div>
 		<div class="form-group">
 			<label>Product Images</label>
@@ -54,3 +63,7 @@
 		<a asp-action="Index" class="btn btn-danger">Cancel</a>
 	</form>
 </div>
+
+@section js{
+	<script src="~/admin/assets/js/product.js"></script>
+}
