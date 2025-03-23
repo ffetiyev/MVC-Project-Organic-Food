@@ -103,7 +103,7 @@
                             @foreach (var item in Model.Categories.Where(m=>m.HasProduct==true))
                             {
                                 <li class="tab-element">
-                                    <a href="#tab_@item.Id" class="tab-link"><span class="@item.Logo"></span>@item.Name</a>
+                                    <a href="#@item.Id" class="tab-link"><span class="@item.Logo"></span>@item.Name</a>
                                 </li>
                             }
                         </ul>
@@ -112,7 +112,7 @@
                        
                         @foreach (var item in Model.Categories.Where(m => m.HasProduct == true))
                         {
-                            <div id="tab_@item.Id" class="tab-contain">
+                            <div id="@item.Id" class="tab-contain">
                                 <ul class="products-list biolife-carousel nav-center-02 nav-none-on-mobile eq-height-contain" data-slick='{"rows":2 ,"arrows":true,"dots":false,"infinite":true,"speed":400,"slidesMargin":10,"slidesToShow":4, "responsive":[{"breakpoint":1200, "settings":{ "slidesToShow": 4}},{"breakpoint":992, "settings":{ "slidesToShow": 3, "slidesMargin":25 }},{"breakpoint":768, "settings":{ "slidesToShow": 2, "slidesMargin":15}}]}'>
                                         @foreach (var product in Model.Products.Where(m=>m.ProductCategoryId==item.Id)) 
                                      { 
@@ -131,7 +131,7 @@
                                                     @if(product.Discounts.Any()){
                                                             <ins><span class="price-amount"><span class="currencySymbol">£</span> @(product.Price - (product.Price * product.Discounts.First().Percent) / 100)</span></ins>
                                                     }
-                                                    <del><span class="price-amount"><span class="currencySymbol">£</span>95.</span></del>
+                                                    <del><span class="price-amount"><span class="currencySymbol">£</span>@product.Price</span></del>
                                                 </div>
                                                 <div class="slide-down-box">
                                                     <p class="message">@product.Description</p>

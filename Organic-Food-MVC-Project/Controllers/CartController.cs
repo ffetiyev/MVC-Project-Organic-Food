@@ -1,5 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
+using Organic_Food_MVC_Project.Data;
+using Organic_Food_MVC_Project.Models.Home;
 using Organic_Food_MVC_Project.Services.Interfaces;
 using Organic_Food_MVC_Project.ViewModels.Home;
 
@@ -9,11 +12,14 @@ namespace Organic_Food_MVC_Project.Controllers
     {
         private readonly IHttpContextAccessor _accessor;
         private readonly IProductService _productService;
+        private readonly AppDbContext _context;
         public CartController(IHttpContextAccessor accessor,
-                              IProductService productService)
+                              IProductService productService,
+                              AppDbContext context)
         {
             _accessor=accessor;
             _productService=productService;
+            _context=context;
         }
         public async Task<IActionResult> Index()
         {
@@ -23,18 +29,17 @@ namespace Organic_Food_MVC_Project.Controllers
                 basketDatas = JsonConvert.DeserializeObject<List<BasketVM>>(_accessor.HttpContext.Request.Cookies["basket"]);
             }
 
-            Dictionary<ProductVM,int> products = new();
+            Dictionary<Product,int> products = new();
             foreach (var item in basketDatas)
             {
-                var product =await _productService.GetByIdAsync(item.ProductId);
+                var product =await _context.Products.Include(m=>m.ProductImages).Include(m=>m.DiscountProducts).FirstOrDefaultAsync(m=>m.Id==item.ProductId);
                 products.Add(product,item.ProductCount);
             }
             decimal total = products.Sum(m=>m.Key.Price*m.Value);
             return View(new BasketDetailVM { Products=products,Total=total});
         }
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public IActionResult Delete(int id)
+
+        public async Task<IActionResult> Delete(int id)
         {
             List<BasketVM> basketDatas = new();
             if (_accessor.HttpContext.Request.Cookies["basket"] != null)

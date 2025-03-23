@@ -12,6 +12,7 @@ var conString = builder.Configuration.GetConnectionString("Default") ??
      throw new InvalidOperationException("Connection string 'Default'" +
     " not found.");
 builder.Services.AddDbContext<AppDbContext>(options =>
+
 options.UseSqlServer(conString));
 
 builder.Services.AddScoped<ISettingService, SettingService>();

@@ -211,31 +211,28 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="../../pages/icons/mdi.html">
+                        <a class="nav-link" asp-area="Admin" asp-controller="About" asp-action="Index">
                             <i class="mdi mdi-emoticon menu-icon"></i>
-                            <span class="menu-title">Icons</span>
+                            <span class="menu-title">About</span>
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" data-toggle="collapse" href="#auth" aria-expanded="false" aria-controls="auth">
+                        <a class="nav-link" data-toggle="collapse" asp-area="Admin" asp-controller="BlogCategory" asp-action="Index">
                             <i class="mdi mdi-account menu-icon"></i>
-                            <span class="menu-title">User Pages</span>
-                            <i class="menu-arrow"></i>
+                            <span class="menu-title">Blog Category</span>
                         </a>
-                        <div class="collapse" id="auth">
-                            <ul class="nav flex-column sub-menu">
-                                <li class="nav-item"> <a class="nav-link" href="../../pages/samples/login.html"> Login </a></li>
-                                <li class="nav-item"> <a class="nav-link" href="../../pages/samples/login-2.html"> Login 2 </a></li>
-                                <li class="nav-item"> <a class="nav-link" href="../../pages/samples/register.html"> Register </a></li>
-                                <li class="nav-item"> <a class="nav-link" href="../../pages/samples/register-2.html"> Register 2 </a></li>
-                                <li class="nav-item"> <a class="nav-link" href="../../pages/samples/lock-screen.html"> Lockscreen </a></li>
-                            </ul>
-                        </div>
+
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="../../documentation/documentation.html">
+                        <a class="nav-link" asp-area="Admin" asp-controller="Blog" asp-action="Index">
                             <i class="mdi mdi-file-document-box-outline menu-icon"></i>
-                            <span class="menu-title">Documentation</span>
+                            <span class="menu-title">Blog</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="Admin" asp-controller="Setting" asp-action="Index">
+                            <i class="mdi mdi-file-document-box-outline menu-icon"></i>
+                            <span class="menu-title">Setting</span>
                         </a>
                     </li>
                 </ul>

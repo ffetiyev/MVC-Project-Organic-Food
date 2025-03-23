@@ -1,6 +1,6 @@
-﻿@model ProductVM   
+﻿@model Product 
 
- <!--Hero Section-->
+<!--Hero Section-->
 <div class="hero-section hero-background">
     <h1 class="page-title">Organic Fruits</h1>
 </div>
@@ -26,14 +26,15 @@
             <div class="sumary-product single-layout">
                 <div class="media">
                     <ul class="biolife-carousel slider-for" data-slick='{"arrows":false,"dots":false,"slidesMargin":30,"slidesToShow":1,"slidesToScroll":1,"fade":true,"asNavFor":".slider-nav"}'>
-                           <li><img src="~/assets/images/products/@Model.ProductImages.FirstOrDefault(m=>m.IsMain).Name" alt="" width="500" height="500"></li>
+                        <li><img src="~/assets/images/products/@Model.ProductImages.FirstOrDefault(m=>m.IsMain).Name" alt="" width="500" height="500"></li>
                     </ul>
-                    <ul class="biolife-carousel slider-nav" data-slick='{"arrows":false,"dots":false,"centerMode":false,"focusOnSelect":true,"slidesMargin":10,"slidesToShow":4,"slidesToScroll":1,"asNavFor":".slider-for"}'>
-                            @foreach (var item in Model.ProductImages)
+                    <div>
+                        @foreach (var item in Model.ProductImages)
                         {
-                            <li><img src="~/assets/images/products/@item.Name" alt="" width="88" height="88"></li>
+                            <img src="~/assets/images/products/@item.Name" style="width:100px;height:90px;" />
                         }
-                    </ul>
+                    </div>
+
                 </div>
                 <div class="product-attribute">
                     <h3 class="title">@Model.Name</h3>
@@ -41,12 +42,12 @@
                         <p class="star-rating"><span class="width-80percent"></span></p>
                         <span class="review-count">(04 Reviews)</span>
                         <span class="qa-text">Q&A</span>
-                        <b class="category">By: @Model.CategoryName</b>
+                        <b class="category">By: @Model.ProductCategory.Name</b>
                     </div>
                     <span class="sku">Sku: #76584HH</span>
                     <p class="excerpt">@Model.Description</p>
                     <div class="price">
-                        <ins><span class="price-amount"><span class="currencySymbol">£</span>@(Model.Price - Model.Price * Model.Discounts.First().Percent/100)</span></ins>
+                        <ins><span class="price-amount"><span class="currencySymbol">£</span>@* @(Model.Price - Model.Price * Model.DiscountProducts.First()./100) *@</span></ins>
                         <del><span class="price-amount"><span class="currencySymbol">£</span>@Model.Price</span></del>
                     </div>
 
