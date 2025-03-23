@@ -34375,7 +34375,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1543"
+          "Value": "2958"
         },
         {
           "Name": "Content-Type",
@@ -34383,22 +34383,22 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZBeHrtx3ddi05p6UitaJ2CexWL8oUJhX3BzNnuaw5FE=\""
+          "Value": "\"cXBiaeOI0lAk+HqJNH/44RXQKKX/jJLX9BsYmhGEqQk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 08:34:51 GMT"
+          "Value": "Sun, 23 Mar 2025 21:07:15 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZBeHrtx3ddi05p6UitaJ2CexWL8oUJhX3BzNnuaw5FE="
+          "Value": "sha256-cXBiaeOI0lAk+HqJNH/44RXQKKX/jJLX9BsYmhGEqQk="
         }
       ]
     },
     {
-      "Route": "assets/js/custom.sc9li15awi.js",
+      "Route": "assets/js/custom.p6gujk0w5x.js",
       "AssetFile": "assets/js/custom.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -34412,7 +34412,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1543"
+          "Value": "2958"
         },
         {
           "Name": "Content-Type",
@@ -34420,21 +34420,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZBeHrtx3ddi05p6UitaJ2CexWL8oUJhX3BzNnuaw5FE=\""
+          "Value": "\"cXBiaeOI0lAk+HqJNH/44RXQKKX/jJLX9BsYmhGEqQk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 08:34:51 GMT"
+          "Value": "Sun, 23 Mar 2025 21:07:15 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "sc9li15awi"
+          "Value": "p6gujk0w5x"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ZBeHrtx3ddi05p6UitaJ2CexWL8oUJhX3BzNnuaw5FE="
+          "Value": "sha256-cXBiaeOI0lAk+HqJNH/44RXQKKX/jJLX9BsYmhGEqQk="
         },
         {
           "Name": "label",
@@ -39687,6 +39687,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I="
+        }
+      ]
+    },
+    {
+      "Route": "templates/emailConfirm.html",
+      "AssetFile": "templates/emailConfirm.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "828"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YVTiLSG537kVqeM+Etalixm6kI/ZPSyl6QmJWEZA3VM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 20:17:16 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YVTiLSG537kVqeM+Etalixm6kI/ZPSyl6QmJWEZA3VM="
+        }
+      ]
+    },
+    {
+      "Route": "templates/emailConfirm.pex9zgs9mh.html",
+      "AssetFile": "templates/emailConfirm.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "828"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YVTiLSG537kVqeM+Etalixm6kI/ZPSyl6QmJWEZA3VM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 20:17:16 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pex9zgs9mh"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YVTiLSG537kVqeM+Etalixm6kI/ZPSyl6QmJWEZA3VM="
+        },
+        {
+          "Name": "label",
+          "Value": "templates/emailConfirm.html"
         }
       ]
     }

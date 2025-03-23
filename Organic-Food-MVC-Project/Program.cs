@@ -1,5 +1,8 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Organic_Food_MVC_Project.Data;
+using Organic_Food_MVC_Project.Helpers;
+using Organic_Food_MVC_Project.Models.User;
 using Organic_Food_MVC_Project.Services;
 using Organic_Food_MVC_Project.Services.Interfaces;
 
@@ -12,8 +15,30 @@ var conString = builder.Configuration.GetConnectionString("Default") ??
      throw new InvalidOperationException("Connection string 'Default'" +
     " not found.");
 builder.Services.AddDbContext<AppDbContext>(options =>
-
 options.UseSqlServer(conString));
+
+builder.Services.AddIdentity<AppUser,IdentityRole>().AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
+
+builder.Services.Configure<AppSettings>(builder.Configuration.GetSection("Smtp"));
+
+builder.Services.Configure<IdentityOptions>(options =>
+{
+    // Password settings.
+    options.Password.RequireDigit = true;
+    options.Password.RequireLowercase = true;
+    options.Password.RequireNonAlphanumeric = true;
+    options.Password.RequireUppercase = true;
+    options.Password.RequiredLength = 6;
+    options.Password.RequiredUniqueChars = 1;
+
+    // Lockout settings.
+    options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(5);
+    options.Lockout.MaxFailedAccessAttempts = 5;
+    options.Lockout.AllowedForNewUsers = true;
+
+    options.SignIn.RequireConfirmedEmail = true;
+    options.User.RequireUniqueEmail = false;
+});
 
 builder.Services.AddScoped<ISettingService, SettingService>();
 builder.Services.AddScoped<IProductCategoryService, ProductCategoryService>();
@@ -25,6 +50,7 @@ builder.Services.AddScoped<IAdvertisementService, AdvertisementService>();
 builder.Services.AddScoped<IAboutService, AboutService>();
 builder.Services.AddScoped<IBrandService, BrandService>();
 builder.Services.AddScoped<IBlogCategoryService, BlogCategoryService>();
+builder.Services.AddScoped<IEmailService, EmailService>();
 builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 
 
@@ -45,6 +71,7 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+app.UseAuthentication();
 
 app.MapControllerRoute(
     name: "areas",

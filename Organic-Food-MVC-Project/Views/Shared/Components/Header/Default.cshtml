@@ -39,7 +39,19 @@
                             <option value="jp">@settings["Japan"]</option>
                         </select>
                     </li>
-                    <li><a href="login.html" class="login-link"><i class="biolife-icon icon-login"></i>Login/Register</a></li>
+                    @if (!User.Identity.IsAuthenticated)
+                    {
+                        <li><a asp-controller="Account" asp-action="Login" class="login-link"><i class="biolife-icon icon-login"></i>Login/Register</a></li>
+                    }
+                    else
+                    {
+                        <li>
+                            <form asp-controller="Account" asp-action="Logout" method="post">
+
+                                <button style="border:none;background-color:inherit;color:white " type="submit" class="login-link"><i  class="biolife-icon icon-login"></i><span style="font-size:14px !important">Logout</span></button>
+                            </form>
+                        </li>
+                    }
                 </ul>
             </div>
         </div>
@@ -48,7 +60,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 col-md-2 col-md-6 col-xs-6">
-                    <a href="index-2.html" class="biolife-logo"><img src="~/assets/images/organic-3.png" alt="biolife logo" width="135" height="34"></a>
+                    <a asp-controller="home" asp-action="index" class="biolife-logo"><img src="~/assets/images/organic-3.png" alt="biolife logo" width="135" height="34"></a>
                 </div>
                 <div class="col-lg-6 col-md-7 hidden-sm hidden-xs">
                     <div class="primary-menu">
@@ -279,7 +291,10 @@
                                     </div>
                                 </div>
                             </li>
-                            <li class="menu-item"><a asp-area="Admin" asp-controller="Dashboard" asp-action="Index">Admin</a></li>
+                            @if(User.IsInRole("SuperAdmin") || User.IsInRole("Admin"))
+                            {
+                                <li class="menu-item"><a asp-area="Admin" asp-controller="Dashboard" asp-action="Index">Admin</a></li>
+                            }
                         </ul>
                     </div>
                 </div>
@@ -288,9 +303,9 @@
                         <div class="mobile-search">
                             <a href="javascript:void(0)" class="open-searchbox"><i class="biolife-icon icon-search"></i></a>
                             <div class="mobile-search-content">
-                                <form action="#" class="form-search" name="mobile-seacrh" method="get">
+                                <form asp-controller="ProductSearch" asp-action="Index" class="form-search" name="mobile-seacrh" method="get">
                                     <a href="#" class="btn-close"><span class="biolife-icon icon-close-menu"></span></a>
-                                    <input type="text" name="s" class="input-text" value="" placeholder="Search here...">
+                                    <input type="text" name="searchText" class="input-text"  placeholder="Search here...">
                                     <select name="category">
                                         <option value="-1" selected>All Categories</option>
                                         @foreach (var item in categories)
@@ -319,7 +334,7 @@
                                         <span class="qty basket-count-show">@Model.BasketProductCount</span>
                                     </span>
                                     <span class="title">My Cart -</span>
-                                    <span class="sub-total">$0.00</span>
+                                    <span class="sub-total">$<span>@Model.BasketTotal</span></span>
                                 </a>
                                 <div class="cart-content">
                                     <div class="cart-inner">
@@ -593,8 +608,8 @@
                 </div>
                 <div class="col-lg-9 col-md-8 padding-top-2px">
                     <div class="header-search-bar layout-01">
-                        <form action="#" class="form-search" name="desktop-seacrh" method="get">
-                            <input type="text" name="s" class="input-text" value="" placeholder="Search here...">
+                        <form asp-controller="ProductSearch" asp-action="Index" class="form-search" name="desktop-seacrh" method="get">
+                            <input type="text" name="searchText" class="input-text" value="" placeholder="Search here...">
                             <select name="category">
                                 <option value="-1" selected>All Categories</option>
                                 @foreach (var item in categories.Take(9))
@@ -605,6 +620,7 @@
                             </select>
                             <button type="submit" class="btn-submit"><i class="biolife-icon icon-search"></i></button>
                         </form>
+
                     </div>
                     <div class="live-info">
                         <p class="telephone"><i class="fa fa-phone" aria-hidden="true"></i><b class="phone-number">@settings["ContactNumber"]</b></p>

@@ -58,9 +58,7 @@
                                                 <del><span class="price-amount"><span class="currencySymbol">£</span>@item.Price</span></del>
                                             </div>
                                             <div class="buttons">
-                                                <form method="post" asp-controller="home" asp-action="AddProductToBasket" asp-route-id="@item.Id">
-                                                    <button type="submit" href="#" class="btn add-to-cart-btn">add to cart</button>
-                                               </form>
+                                                <button href="#" class="btn add-to-cart-btn add-basket" data-id="@item.Id">add to cart</button>
                                             </div>
                                         </div>
                                     </div>
@@ -126,19 +124,23 @@
                                             </div>
                                             <div class="info">
                                                 <b class="categories">@item.Name</b>
-                                                <h4 class="product-title"><a href="#" class="pr-name">Organic Hass Avocado, Large</a></h4>
+                                                <h4 class="product-title"><a href="#" class="pr-name">@product.Name</a></h4>
                                                 <div class="price ">
                                                     @if(product.Discounts.Any()){
                                                             <ins><span class="price-amount"><span class="currencySymbol">£</span> @(product.Price - (product.Price * product.Discounts.First().Percent) / 100)</span></ins>
+                                                            <del><span class="price-amount"><span class="currencySymbol">£</span>@product.Price</span></del>
                                                     }
-                                                    <del><span class="price-amount"><span class="currencySymbol">£</span>@product.Price</span></del>
+                                                    else{
+                                                            <ins><span class="price-amount"><span class="currencySymbol">£</span>@product.Price</span></ins>
+                                                    }
+
                                                 </div>
                                                 <div class="slide-down-box">
                                                     <p class="message">@product.Description</p>
                                                     <div class="buttons">
                                                         <a href="#" class="btn wishlist-btn"><i class="fa fa-heart" aria-hidden="true"></i></a>
                                                         
-                                                                <button href="#" class="btn add-to-cart-btn add-basket" data-id="@product.Id">add to cart</button>
+                                                        <button href="#" class="btn add-to-cart-btn add-basket" data-id="@product.Id">add to cart</button>
                                                         <a href="#" class="btn compare-btn"><i class="fa fa-random" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
@@ -183,7 +185,7 @@
                             <p class="third-line">@Model.Advertisement.Description</p>
                             <div class="product-detail">
                                 <p class="txt-price"><span>Only:</span>$@Model.Advertisement.Price</p>
-                                <a href="#" class="btn add-to-cart-btn">add to cart</a>
+                                <button href="#" class="btn add-to-cart-btn add-basket" data-id="@Model.Advertisement.ProductId">add to cart</button>
                             </div>
                         </div>
                     </div>
@@ -268,7 +270,7 @@
                                                     <p class="message">@item.Description</p>
                                                     <div class="buttons">
                                                         <a href="#" class="btn wishlist-btn"><i class="fa fa-heart" aria-hidden="true"></i></a>
-                                                        <a href="#" class="btn add-to-cart-btn">add to cart</a>
+                                                        <button href="#" class="btn add-to-cart-btn add-basket" data-id="@item.Id">add to cart</button>
                                                         <a href="#" class="btn compare-btn"><i class="fa fa-random" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>

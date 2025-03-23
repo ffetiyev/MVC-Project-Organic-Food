@@ -27,6 +27,7 @@ namespace Organic_Food_MVC_Project.Services
                 Price = m.Price,
                 Product = m.Product,
                 Title = m.Title,
+                ProductId=product.Id,
             }).FirstAsync();
         }
     }

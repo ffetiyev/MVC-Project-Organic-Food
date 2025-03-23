@@ -7536,8 +7536,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>sc9li15awi</Fingerprint>
-      <Integrity>ZBeHrtx3ddi05p6UitaJ2CexWL8oUJhX3BzNnuaw5FE=</Integrity>
+      <Fingerprint>p6gujk0w5x</Fingerprint>
+      <Integrity>cXBiaeOI0lAk+HqJNH/44RXQKKX/jJLX9BsYmhGEqQk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\custom.js'))</OriginalItemSpec>
@@ -8711,6 +8711,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Organic-Food-MVC-Project.k3q29nxutn.bundle.scp.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\templates\emailConfirm.html'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Organic-Food-MVC-Project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Organic-Food-MVC-Project</BasePath>
+      <RelativePath>templates/emailConfirm.html</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>pex9zgs9mh</Fingerprint>
+      <Integrity>YVTiLSG537kVqeM+Etalixm6kI/ZPSyl6QmJWEZA3VM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\templates\emailConfirm.html'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

@@ -1,7 +1,10 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
+using Organic_Food_MVC_Project.Data;
 using Organic_Food_MVC_Project.Models;
+using Organic_Food_MVC_Project.Models.Home;
 using Organic_Food_MVC_Project.Services;
 using Organic_Food_MVC_Project.Services.Interfaces;
 using Organic_Food_MVC_Project.ViewModels.Blog;
@@ -20,6 +23,7 @@ namespace Organic_Food_MVC_Project.Controllers
         private readonly IBrandService _brandService;
         private readonly IBlogService _blogService;
         private readonly IHttpContextAccessor _accessor;
+        private readonly AppDbContext _context;
         public HomeController(IProductCategoryService categoryService,
                               IProductService productService,
                               ISliderService sliderService,
@@ -28,7 +32,8 @@ namespace Organic_Food_MVC_Project.Controllers
                               IAboutService aboutService,
                               IBrandService brandService,
                               IBlogService blogService,
-                              IHttpContextAccessor accessor)
+                              IHttpContextAccessor accessor,
+                              AppDbContext context)
         {
             _productService = productService;
             _categoryService = categoryService;
@@ -39,6 +44,7 @@ namespace Organic_Food_MVC_Project.Controllers
             _brandService = brandService;
             _blogService = blogService;
             _accessor = accessor;
+            _context = context;
         }
         public async Task<IActionResult> Index()
         {
@@ -64,7 +70,7 @@ namespace Organic_Food_MVC_Project.Controllers
             };
             return View(homeVM);
         }
-        public IActionResult AddProductToBasket(int id)
+        public async Task<IActionResult> AddProductToBasket(int id)
         {
             List<BasketVM> basketDatas = new();
             if (_accessor.HttpContext.Request.Cookies["basket"] != null)
@@ -84,7 +90,14 @@ namespace Organic_Food_MVC_Project.Controllers
 
             _accessor.HttpContext.Response.Cookies.Append("basket",JsonConvert.SerializeObject(basketDatas));
             var basketCount = basketDatas.Sum(m => m.ProductCount);
-            return Ok(basketCount);
+            Dictionary<Product, int> products = new();
+            foreach (var item in basketDatas)
+            {
+                var product = await _context.Products.Include(m => m.ProductImages).Include(m => m.DiscountProducts).FirstOrDefaultAsync(m => m.Id == item.ProductId);
+                products.Add(product, item.ProductCount);
+            }
+            decimal total = products.Sum(m => m.Key.Price * m.Value);
+            return Ok(new {basketCount,total});
 
         }
 

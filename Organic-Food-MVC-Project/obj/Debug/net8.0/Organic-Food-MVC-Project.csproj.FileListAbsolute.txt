@@ -410,3 +410,13 @@ C:\Users\ffati\OneDrive\Desktop\PB402\Backend-MVC\Organic-Food-MVC-Project - Las
 C:\Users\ffati\OneDrive\Desktop\PB402\Backend-MVC\Organic-Food-MVC-Project - Last\Organic-Food-MVC-Project\obj\Debug\net8.0\Organic-Food-MVC-Project.pdb
 C:\Users\ffati\OneDrive\Desktop\PB402\Backend-MVC\Organic-Food-MVC-Project - Last\Organic-Food-MVC-Project\obj\Debug\net8.0\Organic-Food-MVC-Project.genruntimeconfig.cache
 C:\Users\ffati\OneDrive\Desktop\PB402\Backend-MVC\Organic-Food-MVC-Project - Last\Organic-Food-MVC-Project\obj\Debug\net8.0\ref\Organic-Food-MVC-Project.dll
+C:\Users\ffati\OneDrive\Desktop\PB402\Backend-MVC\Organic-Food-MVC-Project - Last\Organic-Food-MVC-Project\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ffati\OneDrive\Desktop\PB402\Backend-MVC\Organic-Food-MVC-Project - Last\Organic-Food-MVC-Project\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ffati\OneDrive\Desktop\PB402\Backend-MVC\Organic-Food-MVC-Project - Last\Organic-Food-MVC-Project\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ffati\OneDrive\Desktop\PB402\Backend-MVC\Organic-Food-MVC-Project - Last\Organic-Food-MVC-Project\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ffati\OneDrive\Desktop\PB402\Backend-MVC\Organic-Food-MVC-Project - Last\Organic-Food-MVC-Project\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ffati\OneDrive\Desktop\PB402\Backend-MVC\Organic-Food-MVC-Project - Last\Organic-Food-MVC-Project\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\ffati\OneDrive\Desktop\PB402\Backend-MVC\Organic-Food-MVC-Project - Last\Organic-Food-MVC-Project\bin\Debug\net8.0\MailKit.dll
+C:\Users\ffati\OneDrive\Desktop\PB402\Backend-MVC\Organic-Food-MVC-Project - Last\Organic-Food-MVC-Project\bin\Debug\net8.0\MimeKit.dll
+C:\Users\ffati\OneDrive\Desktop\PB402\Backend-MVC\Organic-Food-MVC-Project - Last\Organic-Food-MVC-Project\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ffati\OneDrive\Desktop\PB402\Backend-MVC\Organic-Food-MVC-Project - Last\Organic-Food-MVC-Project\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll

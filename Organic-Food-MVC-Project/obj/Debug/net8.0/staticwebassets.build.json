@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KVa3AVFFXZds4SjRvtmCIqE/FKwTzlHv8C4N4Xp4zQM=",
+  "Hash": "6LDicap1Jo0+Vaj2u7XqElLrIwrb2Yyt6bEihCpokzM=",
   "Source": "Organic-Food-MVC-Project",
   "BasePath": "_content/Organic-Food-MVC-Project",
   "Mode": "Default",
@@ -8851,8 +8851,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "sc9li15awi",
-      "Integrity": "ZBeHrtx3ddi05p6UitaJ2CexWL8oUJhX3BzNnuaw5FE=",
+      "Fingerprint": "p6gujk0w5x",
+      "Integrity": "cXBiaeOI0lAk+HqJNH/44RXQKKX/jJLX9BsYmhGEqQk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\js\\custom.js"
@@ -10200,6 +10200,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\templates\\emailConfirm.html",
+      "SourceId": "Organic-Food-MVC-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\",
+      "BasePath": "_content/Organic-Food-MVC-Project",
+      "RelativePath": "templates/emailConfirm#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pex9zgs9mh",
+      "Integrity": "YVTiLSG537kVqeM+Etalixm6kI/ZPSyl6QmJWEZA3VM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\templates\\emailConfirm.html"
     }
   ],
   "Endpoints": [
@@ -44490,7 +44511,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1543"
+          "Value": "2958"
         },
         {
           "Name": "Content-Type",
@@ -44498,11 +44519,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZBeHrtx3ddi05p6UitaJ2CexWL8oUJhX3BzNnuaw5FE=\""
+          "Value": "\"cXBiaeOI0lAk+HqJNH/44RXQKKX/jJLX9BsYmhGEqQk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 08:34:51 GMT"
+          "Value": "Sun, 23 Mar 2025 21:07:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -44512,12 +44533,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZBeHrtx3ddi05p6UitaJ2CexWL8oUJhX3BzNnuaw5FE="
+          "Value": "sha256-cXBiaeOI0lAk+HqJNH/44RXQKKX/jJLX9BsYmhGEqQk="
         }
       ]
     },
     {
-      "Route": "assets/js/custom.sc9li15awi.js",
+      "Route": "assets/js/custom.p6gujk0w5x.js",
       "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\assets\\js\\custom.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -44527,7 +44548,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1543"
+          "Value": "2958"
         },
         {
           "Name": "Content-Type",
@@ -44535,11 +44556,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZBeHrtx3ddi05p6UitaJ2CexWL8oUJhX3BzNnuaw5FE=\""
+          "Value": "\"cXBiaeOI0lAk+HqJNH/44RXQKKX/jJLX9BsYmhGEqQk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 08:34:51 GMT"
+          "Value": "Sun, 23 Mar 2025 21:07:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -44549,7 +44570,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "sc9li15awi"
+          "Value": "p6gujk0w5x"
         },
         {
           "Name": "label",
@@ -44557,7 +44578,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ZBeHrtx3ddi05p6UitaJ2CexWL8oUJhX3BzNnuaw5FE="
+          "Value": "sha256-cXBiaeOI0lAk+HqJNH/44RXQKKX/jJLX9BsYmhGEqQk="
         }
       ]
     },
@@ -49970,6 +49991,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-YBpN3UuV3YOGZ7ju0Vy4qWb+mvvftBSwhBBfBhecqio="
+        }
+      ]
+    },
+    {
+      "Route": "templates/emailConfirm.html",
+      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\templates\\emailConfirm.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "828"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YVTiLSG537kVqeM+Etalixm6kI/ZPSyl6QmJWEZA3VM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 20:17:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YVTiLSG537kVqeM+Etalixm6kI/ZPSyl6QmJWEZA3VM="
+        }
+      ]
+    },
+    {
+      "Route": "templates/emailConfirm.pex9zgs9mh.html",
+      "AssetFile": "C:\\Users\\ffati\\OneDrive\\Desktop\\PB402\\Backend-MVC\\Organic-Food-MVC-Project - Last\\Organic-Food-MVC-Project\\wwwroot\\templates\\emailConfirm.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "828"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YVTiLSG537kVqeM+Etalixm6kI/ZPSyl6QmJWEZA3VM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 20:17:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pex9zgs9mh"
+        },
+        {
+          "Name": "label",
+          "Value": "templates/emailConfirm.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YVTiLSG537kVqeM+Etalixm6kI/ZPSyl6QmJWEZA3VM="
         }
       ]
     }

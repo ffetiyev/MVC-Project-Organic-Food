@@ -1,11 +1,13 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using Organic_Food_MVC_Project.Models;
 using Organic_Food_MVC_Project.Models.Blog;
 using Organic_Food_MVC_Project.Models.Home;
+using Organic_Food_MVC_Project.Models.User;
 
 namespace Organic_Food_MVC_Project.Data
 {
-    public class AppDbContext : DbContext
+    public class AppDbContext : IdentityDbContext<AppUser>
     {
         public AppDbContext(DbContextOptions<AppDbContext> option) : base(option) { }
 

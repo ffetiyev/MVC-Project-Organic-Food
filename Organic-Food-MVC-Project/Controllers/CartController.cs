@@ -52,7 +52,32 @@ namespace Organic_Food_MVC_Project.Controllers
 
             _accessor.HttpContext.Response.Cookies.Append("basket",JsonConvert.SerializeObject(basketDatas));
 
-            return Ok();
+            var basketCount = basketDatas.Sum(m => m.ProductCount);
+            Dictionary<Product, int> products = new();
+            foreach (var item in basketDatas)
+            {
+                var product = await _context.Products.Include(m => m.ProductImages).Include(m => m.DiscountProducts).FirstOrDefaultAsync(m => m.Id == item.ProductId);
+                products.Add(product, item.ProductCount);
+            }
+            decimal total = products.Sum(m => m.Key.Price * m.Value);
+
+            return Ok(new { basketCount, total });
+        }
+        public IActionResult DeleteAll()
+        {
+            List<BasketVM> basketDatas = new();
+            if (_accessor.HttpContext.Request.Cookies["basket"] != null)
+            {
+                basketDatas = JsonConvert.DeserializeObject<List<BasketVM>>(_accessor.HttpContext.Request.Cookies["basket"]);
+            }
+            if (basketDatas.Any())
+            {
+                basketDatas.Clear();
+            }
+
+            _accessor.HttpContext.Response.Cookies.Append("basket", JsonConvert.SerializeObject(basketDatas));
+
+            return Ok(new { basketCount = 0, total = 0 });
         }
     }
 }

@@ -39,8 +39,8 @@
             </div>
         </div>
     </div>
-         @await Component.InvokeAsync("Header"); 
-            @RenderBody()
+    @await Component.InvokeAsync("Header"); 
+    @RenderBody()
     <!-- FOOTER -->
     <footer id="footer" class="footer layout-03">
         <div class="footer-content background-footer-03">
@@ -56,15 +56,17 @@
                                     <span>@settings["QuestionPhone"]</span>
                                 </p>
                             </div>
-                            <div class="newsletter-block layout-01">
-                                <h4 class="title">Newsletter Signup</h4>
-                                <div class="form-content">
-                                    <form action="#" name="new-letter-foter">
+                                @if (!User.Identity.IsAuthenticated)
+                                {
+                                <div class="newsletter-block layout-01">
+                                    <h4 class="title">Newsletter Signup</h4>
+                                    <div class="form-content">
                                         <input type="email" class="input-text email" value="" placeholder="Your email here...">
-                                        <button type="submit" class="bnt-submit" name="ok">Sign up</button>
-                                    </form>
-                                </div>
-                            </div>
+                                        <a asp-controller="Account" asp-action="Register" class="bnt-submit" name="ok">Sign up</a>
+                                    </div>
+								</div>
+                                }
+                         
                         </section>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-6 md-margin-top-5px sm-margin-top-50px xs-margin-top-40px">
